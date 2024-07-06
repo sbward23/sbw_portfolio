@@ -1,0 +1,306 @@
+---
+title: "Clinical Portfolio"
+author: "Stephanie B. Ward, M.S."
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    code-fold: true
+    code-summary: "Hide Code"
+editor:
+  chunk-output-type: inline
+---
+
+```{css}
+pre, code {
+  max-height: 500px;
+  overflow-y: auto;
+  white-space: pre !important; 
+  overflow-x: auto
+}
+```
+
+```{r}
+#| message: false
+#| echo: false
+
+# Packages and Source
+library(tidyverse)
+library(psych)
+library(janitor)
+library(jmv)
+library(kableExtra)
+library(lubridate)
+```
+
+```{r}
+#| message: false
+#| echo: false
+
+# Global Settings
+theme_set(theme_classic())
+options(tibble.width = Inf)
+options(tibble.print_max = Inf)
+```
+
+## Personal Statement
+
+I am often struck by the parallels that emerge between my research and my patients' lived experiences. One such story belonged to a young woman who was struggling to differentiate between a consensual sexual encounter and a coercive one after a night out drinking. Her session laid bare the blurry lines available for defining these ambiguous events. A pit formed in my stomach as I realized even a content-matter expert like me, who spent every day studying exactly what this young woman brought into the therapy room, could not protect her from what had already transpired. This moment deepened my commitment to better understanding the complexities of sexual behavior, substance use, and mental health, and to pursuing a career dedicated to preventing harmful sexual experiences.
+
+My long-term career goal is to work as part of an interdisciplinary research team focused on promoting women's health by reducing interpersonal violence and hazardous substance use. I am most excited about contributing to the development and feasibility of scalable interventions that address the full spectrum of substance-involved sexual behavior, from consensual to non-consensual and from sober to incapacitated due to substance use. Specifically, I want to leverage mobile technologies and the scaffolding of preexisting systems to deliver personalized, evidence-based content in educational and healthcare settings. By facilitating a more holistic understanding of these behaviors and their consequences, one that evolves with young boys and girls as they develop over time, I believe we can transform the landscape of sexual violence prevention.
+
+A paradigm shift is sorely needed given the current state of the primary prevention literature and my training has positioned me among the most well-rounded clinical scientists prepared to lead the charge. Throughout my PhD, I have exemplified what it means for one's research, teaching, and applied clinical practice to inform and improve upon one another. In the context of my first TA position, I led four discussion sections on Human Sexuality under the mentorship of Dr. Janet Hyde, which ignited my love for teaching and my interest in educational interventions that could prevent sexual violence. I went on to complete my first external practicum rotation at our university health center, a site I applied to as a result of my experiences as an instructor and because this clinical population was the focus of my ongoing research on substance misuse and sexual violence. During my first four years in the program, I co-authored four empirical research papers, completed all coursework requirements, logged more than 400 direct clinical contact hours, and wrote five integrated assessment reports, all while remaining actively engaged in mentorship and service roles.
+
+Importantly, my path has not been without challenges. As the first graduate student in a brand-new lab established during a global pandemic, I have repeatedly demonstrated my ability to overcome obstacles. Balancing rigorous academic research with coursework, clinical responsibilities, and chronic health problems tested my resilience. However, these experiences also taught me the importance of adaptability in a field where each failure is highly informative. I have learned to navigate setbacks and remain committed to my goals, valuing shameless perseverance among the most specialized skills in my professional toolbox. I look forward to tackling new challenges in the years ahead, secure in the knowledge that with each passing milestone I get one step closer to enacting positive change for all the patients whose stories I carry with me.
+
+## Research Statement
+
+My program of research aims to better understand sexual behavior following alcohol and other drug use. High-risk sexual behavior and substance misuse each are significant public health problems and the frequency with which they co-occur compounds adverse outcomes. Among adults in the United States, 22% and 6% report using alcohol or cannabis before their most recent instance of sexual intercourse, increasing the likelihood of unintended pregnancies, sexually transmitted infections, and sexual violence.
+
+Regardless of the risks, adults have intoxicated sexual encounters they view as consensual and it remains unclear what level of substance-related impairment negates the capacity to give or obtain consent. Social influences introduce further complexity by differentially impacting individuals' interpretations of sexual experiences. For example, my mixed-methods research suggests that the #MeToo movement changed how some US adults perceive sexual consent and assault and interact with sexual partners (Ward, Nardella, Hamilton & Walsh, 2024). Qualitative responses identified alcohol as a complicating factor, emphasizing the need for interventions addressing alcohol and consent to mitigate negative consequences.
+
+A frequent negative consequence of intoxicated sexual activity is alcohol-involved sexual assault (SA). However, sexual violence is a notoriously difficult behavioral problem to directly measure or change. My work has illustrated  how lack of consent may serve as a proxy for sexual assault in research focused on substance-involved sexual events. This focus has the benefit of being less prone to social desirability bias, as it avoids the stigmatization and self-recrimination participants might associate with endorsing survey items about the use of certain behaviors to convince someone to have sex when they did not want to. Moreover, examining the dimensions of consent, rather than solely categorizing events as assault or non-assault, allows me to assess how a broader range of experiences are related to other SA risk factors.
+
+In this vein, I led a study linking more permissive attitudes toward alcohol-involved sexual experiences to weaker process-based consent among college men (Ward, Hassanpour, & Walsh, under review). A significant three-way interaction indicated this negative association was exacerbated when both hostility toward women and peer support of abuse were high, both of which are robust predictors of sexual assault perpetration. My work also has revealed individual-difference factors besides substance use that influence sexual consent feelings and communication. For example, college students with sexual victimization histories report lower internal consent feelings and greater use of passive consent cues compared to students without such histories (Walsh, Lowe, Ward, 2024). Collectively, these findings highlight the role of personal beliefs and socialization experiences in shaping sexual consent.
+
+However, behavioral measures of substance use and consent often rely on retrospective self-reports, as was the case with my cross-sectional studies. This research design precludes consideration of how substance use is proximally and temporally related to sexual behavior. Sampling students 'in the wild' with daily diary surveys can address this methodological hurdle by enabling researchers to probe event-level associations, and experience sampling methods considered even more burdensome than daily diaries are acceptable to people who use substances (Wyant, Moshontz, Ward, Fronk, & Curtin, 2023). Nonetheless, traditional quantitative approaches often miss the rich, detailed insights needed to contextualize overall trends, leading me to use mixed methods in my dissertation. I collected baseline and daily diary data from university students to investigate how substance use and subjective intoxication influence sexual risk behaviors and consent dynamics at the event level. To gain a holistic perspective, I will also collect qualitative data exploring how young adults navigate intoxicated sexual experiences and determine for themselves whether these experiences are consensual. Collecting both dynamic daily reports and qualitative responses will strengthen my examination of intoxicated, consent-related feelings and behaviors by facilitating a more nuanced analysis of variability within and between events.
+
+My ultimate program of research will leverage the strengths of multimodal ambulatory assessment and mixed methodologies to better account for the real-world complexities underlying what happens during and after substance-involved sexual experiences. I intend to advance our field's understanding of the precursors and contextual factors that contribute to these incidents on college campuses and then expand the scope of my work to include members of the armed forces and individuals impacted by the criminal legal system. My overarching goal is to inform, develop, and deliver scalable risk-reduction and health promotion interventions aimed at preventing sexual violence and fostering healthy, consensual sexual behaviors in contexts where alcohol and other substances are involved.
+
+### Research
+
+#### Empirical studies published during graduate program
+
+Ward, S. B., Nardella, S., Hamilton, K. W., Walsh, K. (2024). "I Didn't Realize How Common It Was:" A Mixed-Methods Study Examining Changes in Perceptions of Sexual Assault, Sex and Consent, and Sexual Behavior as a Function of the #MeToo Movement. *The Journal of Sex Research*, 1--15. <https://doi.org/10.1080/00224499.2024.2352555>
+
+-   Date Submitted: September 15, 2023
+
+-   Date Accepted: April 25, 2024
+
+-   Role: First author. Worked on research conceptualization and design, recruited and compensated participants, performed data cleaning and pre-processing, coded qualitative data, conducted thematic analysis, co-authored initial manuscript submission (Major Revision 22-Nov-2023), revised introduction, methods, and discussion.
+
+Walsh, K., Lowe, S. R., & Ward, S. (2024). Sexual Victimization, Emotion Dysregulation, and Sexual Consent Feelings and Communication During a Recent Sexual Encounter. *The Journal of Sex Research*, 1--9. <https://doi.org/10.1080/00224499.2024.2368044>
+
+-   Date Submitted: December 4, 2023
+
+-   Date Accepted: June 9, 2024
+
+-   Role: Last author. Worked on literature review, assisted in writing the introduction, editing the initial manuscript submission, writing requested additions, and applying revisions.
+
+Wyant, K., Moshontz, H., Ward, S.B., Fronk, G., Curtin, J. J. (2023). Acceptability of Personal Sensing Among People With Alcohol Use Disorder: Observational Study. *JMIR Mhealth Uhealth*, 11(e41833), <https://doi.org/10.2196/41833>.
+
+-   Role: Middle author. Worked on literature review, assisted in writing the introduction and editing the manuscript.
+
+#### Under review
+
+**Submitted version of the FYP**\
+Ward, S. B., Hassanpour, P., Walsh, K. (2023). Process-based consent among college men: The interactive influence of hostility toward women, perceived peer norms, and alcohol-involved sexual consent attitudes. *Sex Roles.* Registration DOI (anonymized view-only link for masked peer review): <https://osf.io/zxrjp/?view_only=89295c61cb5f415c9f9526df9352d517>
+
+-   Date Submitted: June 30, 2023
+
+-   Date Re-Submitted: March 18, 2024  
+
+-   Role: First author. Designed the research project, recruited and compensated participants, collected the data, performed all data cleaning and analysis, wrote initial manuscript submission (Rejected following peer-review, 21-Aug-2023), applied reviewer feedback, re-ran analyses, re-wrote manuscript, registered project on OSF, submitted revised manuscript to a different journal with analytic code included as supplemental material.
+
+#### Lunch and Learn Presentation
+
+*Process-Based Consent Among College Men: The Interactive Influence of Hostility Toward Women, Perceived Peer Norms, and Alcohol-involved Sexual Consent Attitudes*
+
+-   Date Presented: February 20, 2023  
+
+**Abstract**
+
+Process-based consent refers to the ongoing consideration of a partner's willingness to engage in sexual activity and continual communication with that partner. Drawing upon research identifying individual-, situational-, and peer-level factors that contribute to men's perpetration of sexual violence, the current study used online survey data and hierarchical linear regression to examine how permissive attitudes toward sexual consent experiences involving alcohol use, hostility toward women, and perceived peer norms in support of abuse influence process-based consent among college men (N = 463; M age = 19.32; 93% heterosexual, 64% white, non-Hispanic). Findings revealed all three primary study variables were independently associated with weaker process-based consent while adjusting for fraternity membership, relationship status, and sexual history. A significant three-way interaction indicated that the negative association between permissive alcohol-involved sexual consent attitudes and process-based consent was exacerbated when both hostility toward women and peer support of abuse were high, implying a complex relationship between multiple forces shaping college men's approaches to sexual consent. Implications for consent education and violence prevention are discussed, including the need for interventions that address process-level interactions between personal beliefs and gendered peer group norms concerning alcohol use and sexual behavior.
+
+#### Capstone Presentation
+
+*Sexual Violence in University Students: A Multi-Level Approach to Understanding the Perpetration of Sexual Aggression*
+
+-   Date presented: April 26, 2024
+
+**Abstract**
+
+#### Posters
+
+[*Presentations or posters at scientific meetings: Provide title, abstract, and date. If possible, a pdf of the poster or related handout should also be included. These can include presentations/posters at local meetings.*]{.underline}
+
+\*\*Williams, A., Gitlin, S., Panwalkar, S., Ward, S.B., & Walsh, K. Does Anxiety Moderate the Effect of Peer Drinking Norms on Past-Month Alcohol-Induced Blackouts? An Observational Study Among College Students. Poster presented at the Wisconsin Symposium on Emotion (WSoE) 2024.\
+
+\*\*Melnik, J., Nardella, S., Ward, S.B., & Walsh, K. (2023). Associations Between Lifetime Sexual Violence and Engaging in Choking During Sex: Findings from an Undergraduate Sample. Poster presented at the 2023 Annual Conference of the Society for the Scientific Study of Sexuality (SSSS).\
+
+\*\*Bujan, G., Kidd, G., Williams, A., Mehta, A., Ward, S.B., Walsh, K. (2023). Manner of Drinking as a Mediator of Emotional Impulsivity and Alcohol-Related Problems. Poster presented at the Wisconsin Symposium on Emotion (WSoE) 2023.\
+
+Ward, S.B., Walsh, K. (2022). Alcohol-Induced Blackouts and Nonconsensual Sexual Experiences Among Undergraduate Men. Poster presented for the Child Maltreatment & Interpersonal Violence Special Interest Group (SIG) at the 56th annual meeting of the Association for Behavioral and Cognitive Therapy (ABCT).\
+
+Ward, S.B., Hassanpour, P., Walsh, K. (2022). Sexual Consent Among College Men: The Moderating Effects of Alcohol-Involved Sex & Hostility Toward Women. Poster presented at the 2022 Annual Conference of the Society for the Scientific Study of Sexuality (SSSS).\
+
+Ward, S.B., Lowe, R.S., Walsh, K. (2021). Associations between Sexual Assault History and Sexual Consent Feelings and Behaviors among College Students: A Path Model Involving Alcohol Use Prior to Sex & Emotion Dysregulation. Poster presented at the 55th annual meeting of the Association for Behavioral and Cognitive Therapy (ABCT).\*\
+
+\*\*Iyer, R., Ward, S.B., Walsh, K. (2021). Sexual Assault Resistance Strategies, Blame, and Mental Health Outcomes. Poster presented at the 37th annual meeting of the International Society for Traumatic Stress Studies (ISTSS).\*\
+
+Hamilton, K., Ward, S. B., Matis, E., Walsh, K. (2020). Sexual Assault Victimization and Perpetration among those Involved in Greek Life and Varsity Athletics: A Large National Study. Poster presented at the 54th annual meeting of the Association for Behavioral and Cognitive Therapy (ABCT).\*\
+
+Robinson, K. A., Carroll, M., Ward, S. B., Brat, G., (2019). Multi-Institutional Patient-Reported Opioid Use Compared to Clinical Consensus Recommendations. Poster presented at the Harvard Surgical Research Day, Boston, MA.\
+
+Robinson, K. A., Ward, S. B., Brat, G., (2018). Comparing Reality to Consensus: Reported Opioid Use vs. Clinician Consensus Recommendations. Poster presented at the Silverman Symposium for Health Care Quality and Safety, Boston, MA.\
+
+\*\*Mentored presentation by an undergraduate mentee. Virtual due to the coronavirus pandemic.\*
+
+#### Workshops
+
+[*Attended or led: Provide title, workshop summary, and date*]{.underline}
+
+**Attended**
+
+-   Mixture Modeling and Latent Class Analysis -- Daniel J. Bauer, PhD, and Doug Steinley, PhD
+
+-   Responsible Authorship and Publication -- Margarita Kaushanskaya, PhD,
+
+-   Research Misconduct and Policies for Handling Misconduct -- Brain Fox, PhD
+
+-   Ins and Outs of F and K Awards -- Waisman Center PIs and Grants Team
+
+-   Data Acquisition, Analysis, Sharing, and Ownership -- Brian Christian, PhD
+
+-   Collaborative Research -- Doug Dean III, PhD
+
+-   Mentor and Mentee Responsibilities and Relationships -- Rebecca Alper, PhD, CCP‐SLP
+
+-   Peer Reviews and NIH Grant Reviews -- Audra Sterling, PhD
+
+-   Conflict of interest---Personal, Professional, and Financial -- Maureen Durkin, PhD, DrPH
+
+-   Ethical Conduct of Human and Animal Subjects Research -- Katherine Hustad, PhD, CCC‐SLP
+
+-   Secure and Ethical Data Use and Management -- Brittany Travers, PhD
+
+-   Introduction to Structural Equation Modeling -- Daniel J. Bauer, PhD, and Patrick J. Curran, PhD
+
+**Led**
+
+-   Zotero Workshop
+
+-   Library Resources Workshop
+
+-   Several "Grad School and Beyond" Workshops
+
+#### Additional Research Products
+
+-   Theory or review papers: Can include co-authored papers submitted or published. 
+-   Methods papers: Can include first-authored or co-authored papers submitted or published. 
+-   Perspectives papers or letters: Can include first-authored or co-authored papers submitted or published.
+-   NRSA or other grants: Include grant and any summary statements or other evaluations.
+-   Meaningful blogs or other online contributions
+
+## Theoretical Orientation Statement
+
+### Clinical Training Record
+
+#### Clinical Practicum Experience
+
+[*Brief description should include the name and dates for the practicum, brief description of the client population and other relevant details (e.g., interventions, modalities). This should include documentation of clinical hours (per internship categories) and available/completed supervisor evaluations.*]{.underline}
+
+##### University Health Services, University of Wisconsin-Madison
+
+**September 1, 2022 - May 13, 2023, 16 - 20 hours per week**
+
+-   Individual Counseling: 5 -- 8 hours/week.
+-   Group Counseling: 2 hours/week.
+-   Individual Supervision: 1.5 hours/week.
+-   Group Supervision: 1.5 hours/week.
+-   In-service Training: 1.5 hours every other Friday.
+-   Group Therapy Seminar/Supervision: 1.5 hours every other Friday.
+-   Administrative/Case Notes: 3-5 hours/week.
+
+As a practicum trainee in the Mental Health Services division of our institution's health center, I maintained a clinical caseload of 10-18 young adults. My patients were undergraduate and graduate students who presented with symptoms consistent with social and generalized anxiety, posttraumatic stress, attention-deficit/hyperactivity disorder, and substance dependence, though concerns specific to depression, suicidal thoughts, self-injurious behaviors, poor body image/disordered eating and low self-worth were also quite common. During this clinical practicum, I gained experience working as a multidisciplinary team member within a coordinated care model. I collaborated with clinicians from other service divisions including crisis stabilization, primary care, OB/GYN, and psychiatry to provide holistic care to each patient. While at UHS and thereafter, I drew most heavily from third-wave cognitive behavioral approaches including dialectical behavior therapy (DBT), acceptance and commitment therapy (ACT), and motivational interviewing. In facilitating "DBT Skills" and "ACT for Social Anxiety" therapy groups, I deeply engaged with these modalities and used what I learned to cultivate a more grounded professional identity. Through this practicum experience, my therapeutic approach grew to center mindfulness, values, and emotions, employing culturally-informed conceptualization and goal-oriented treatment planning.
+
+```{r,echo=FALSE}
+#| label: tbl-uhs
+#| tbl-cap: "Hours by Type at University Health Services"
+
+# create data frame
+uhs_summ <- data.frame(
+  Summary = c("Individual Therapy", "Group Counseling", "Assessment", "Total Direct", "Total Support"),
+  Hours = c("117", "36", "27", "180", "87.25"))
+# format table
+kable(uhs_summ, booktabs = TRUE, align = 'lr', col.names = c("Summary", "Hours")) %>%
+  kable_styling(full_width = FALSE)
+```
+
+#### Integrative Assessment Reports
+
+[*Provide integrative or other assessment reports after appropriate de-identification. Do not include raw data from assessments.*]{.underline}
+
+1\. PDD
+
+2\. ADHD
+
+3\. ASPD
+
+4\. ED - BN
+
+5\. PTSD
+
+## Diversity Statement
+
+### Diversity, Equity, and Inclusion (DEI)
+
+#### Case Conceptualization
+
+-   Case conceptualization and/or treatment planning for a patient from an under-represented or marginalized group. The format for case conceptualization is flexible. However, the student should consider including:
+
+    -   Identifying info and presenting problems;
+    -   Psychosocial and medical history;
+    -   Assessment battery (e.g., testing, questionnaires, interviews);
+    -   Conceptualization (i.e., possible diagnoses based on data and history, explanation of treatment based on information gathered, treatment goals and objectives);
+    -   Themes in treatment (e.g., summary of how treatment progressed each week, summary of data collected re: treatment efficacy);
+    -   Case summary, and alternative treatment options
+
+#### Mentorship
+
+**Psychology Research Experience Program (PREP)** Jun 2021 - Aug 2021
+
+-   Trained a mentee from an underrepresented background in psychology research and development
+-   Oriented undergraduate mentee to the sexual violence and posttraumatic stress literatures
+-   Mentored Rachna through the scientific process, from identifying a question to writing up results
+-   Facilitated mentee's learning of analytic strategies and data carpentry via R and RStudio
+-   Guided mentee through presentations in the 2021 PREP Symposium and ISTSS conference\
+
+#### DEI Practices and Principles - Workshops, Seminars, and Lectures
+
+**Research**
+
+-   Breaking the Bias Habit -- William T.L. Cox, PhD
+-   Promoting Safe and Inclusive Research Environments -- Leann DaWalt, PhD
+-   The Scientist as a Responsible Member of Society -- Karla Ausderau, PhD
+-   Change in Implicit Bias -- Calvin Lai, PhD
+-   Cross-Race Friendship -- Elizabeth Page-Gould, PhD
+-   Exploring 'the story' of inequality: Scientific investigations into the antecedents, experience, and reduction of group-based inequality -- Demis Glasford, PhD
+-   Inequalities in Young Adult Criminal Justice Contacts: Patterns and Collateral Consequences for Parents and Siblings -- Courtney Boen, PhD, MPH
+
+**Clinical Service Provision**
+
+-   International Student-Clients: Clinical Considerations -- Wei-Chiao Hsu 徐薇喬, PhD, LPC
+-   Recognizing and Addressing Bicultural Identity Conflict -- Geetanjali Deole, MS, LPC
+
+## Transcript
+
+## Teaching
+
+#### Teaching Statement
+
+Provide a statement that describes your teaching philosophy and indicate how you strive to achieve and ensure excellence in teaching and mentoring. Suggested length: Up to 500 words.
+
+#### Teaching Experience
+
+-   Description of courses TAed or taught: Include course evaluation summary statistics and raw evaluations if available.
+-   Description of courses developed and materials: Include course materials such as syllabus, required reading, sample exams, course website
+
+## Mentorship
+
+**Preventing Interpersonal Violence & Overcoming Trauma (PIVOT) Lab** Aug 2020 - Present
+
+-   Mentors fellow lab members in psychology research and professional development
+-   Teaches research assistants the basics of data cleaning and management with RStudio
+-   Leads workshops on how to find, collect, annotate, and cite research via the library and Zotero
+-   Guides undergraduates, post-baccs, and masters-level scholars through the process of applying to graduate programs and paid training opportunities in research and clinical practice, with support tailored to the goals of each individual\
