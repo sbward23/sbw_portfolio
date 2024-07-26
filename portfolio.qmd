@@ -81,47 +81,65 @@ My ultimate program of research will leverage the strengths of multimodal ambula
 
 ### Research Products
 
-#### Publications
+#### Submitted Version of the FYP
 
-Ward, S. B., Nardella, S., Hamilton, K. W., Walsh, K. (2024). "I Didn't Realize How Common It Was:" A Mixed-Methods Study Examining Changes in Perceptions of Sexual Assault, Sex and Consent, and Sexual Behavior as a Function of the #MeToo Movement. *The Journal of Sex Research*, 1--15. <https://doi.org/10.1080/00224499.2024.2352555>
+1.  **Ward, S. B.**, Hassanpour, P., Walsh, K. (2023). Process-based consent among college men: The interactive influence of hostility toward women, perceived peer norms, and alcohol-involved sexual consent attitudes. *Sex Roles.* Registration DOI (anonymized view-only link for masked peer review): <https://osf.io/zxrjp/?view_only=89295c61cb5f415c9f9526df9352d517> 
+
+Relative contributions:
+
+-   Conceptualization - 60%
+-   Design - 60%
+-   Analyses - 90%
+-   Writing - 70%
+
+**Abstract**
+
+Process-based consent refers to the ongoing consideration of a partner's willingness to engage in sexual activity and continual communication with that partner. Drawing upon research identifying individual-, situational-, and peer-level factors that contribute to men's perpetration of sexual violence, the current study used online survey data and hierarchical linear regression to examine how permissive attitudes toward sexual consent experiences involving alcohol use, hostility toward women, and perceived peer norms in support of abuse influence process-based consent among college men (N = 463; M age = 19.32; 93% heterosexual, 64% white, non-Hispanic). Findings revealed all three primary study variables were independently associated with weaker process-based consent while adjusting for fraternity membership, relationship status, and sexual history. A significant three-way interaction indicated that the negative association between permissive alcohol-involved sexual consent attitudes and process-based consent was exacerbated when both hostility toward women and peer support of abuse were high, implying a complex relationship between multiple forces shaping college men's approaches to sexual consent. Implications for consent education and violence prevention are discussed, including the need for interventions that address process-level interactions between personal beliefs and gendered peer group norms concerning alcohol use and sexual behavior.
+
+#### Published Empirical Studies
+
+1.  **Ward, S. B.**, Nardella, S., Hamilton, K. W., Walsh, K. (2024). "I Didn't Realize How Common It Was:" A Mixed-Methods Study Examining Changes in Perceptions of Sexual Assault, Sex and Consent, and Sexual Behavior as a Function of the #MeToo Movement. *The Journal of Sex Research*, 1--15. <https://doi.org/10.1080/00224499.2024.2352555>
+
+Relative contributions:
+
+-   Conceptualization - 50%
+-   Design - 50%
+-   Analysis - 20%
+-   Writing - 50%
 
 **Abstract**
 
 This mixed-methods study examined awareness and perceived legitimacy of the #MeToo movement and how #MeToo changed perceptions of sexual assault and consent, as well as sexual interactions, in the United States. Adults residing in the U.S. were recruited through CloudResearch to complete an online survey in 2021. Quantitative data from 680 participants (*M* age = 45.8, 60% women, 77.4% White) indicated moderate awareness and perceived legitimacy of the #MeToo movement; Black, LGBQ+, and more politically liberal respondents had greater #MeToo awareness while younger, more liberal respondents, and those with greater rejection of rape myths rated #MeToo more legitimate. Among 354 participants (*M* age = 45.0, 65.3% women, 76.4% White) who answered at least one open-ended question with regard to changes resulting from the #MeToo movement, thematic analysis revealed nine primary themes: (1) Describing change; (2) Change in understanding; (3) More cautious; (4) Wrong or requires reporting/punishment; (5) Gendered social norms; (6) Easier to talk about; (7) #MeToo rhetoric; (8) Consequences for survivors, and (9) Empowerment. Several sub-themes were identified among the primary themes and implications for sexual assault prevention and response were discussed. The study findings are contextualized by social constructionism, with a particular focus on gender-based power dynamics, contributing to a growing literature documenting the cultural impact of the #MeToo movement.
 
--   Date Submitted: September 15, 2023
+2.  Walsh, K., Lowe, S. R., & **Ward, S.** (2024). Sexual Victimization, Emotion Dysregulation, and Sexual Consent Feelings and Communication During a Recent Sexual Encounter. *The Journal of Sex Research*, 1--9. <https://doi.org/10.1080/00224499.2024.2368044>
 
--   Date Accepted: April 25, 2024
+Relative contributions:
 
--   Role: First author. Worked on research conceptualization and design, recruited and compensated participants, performed data cleaning and pre-processing, coded qualitative data, conducted thematic analysis, co-authored initial manuscript submission (Major Revision 22-Nov-2023), revised introduction, methods, and discussion.
+-   Conceptualization - 20%
+-   Design - 20%
+-   Analysis - NA
+-   Writing - 30%
 
-Walsh, K., Lowe, S. R., & Ward, S. (2024). Sexual Victimization, Emotion Dysregulation, and Sexual Consent Feelings and Communication During a Recent Sexual Encounter. *The Journal of Sex Research*, 1--9. <https://doi.org/10.1080/00224499.2024.2368044>
+**Abstract**
 
--   Date Submitted: December 4, 2023
+Sexual consent has been a major focus of campus campaigns to reduce sexual violence (SV). However, these campaigns often educate students about consent with little attention to the complex ways consent can be experienced, expressed, and interpreted by others. Further, little research has focused on the consent feelings and communication cues of students who have a history of SV, nor have studies examined how the ability to attend to and regulate emotions relates to internal feelings or external communication of consent. This secondary analysis examined SV histories, emotion dysregulation, and internal and external consent cues in a sample of 610 college students (72% women) who completed an online self-report survey. Findings revealed that students with SV histories (n = 257) reported greater emotion dysregulation, lower internal consent, and greater use of passive external consent cues compared to students without SV histories; greater emotion dysregulation was associated with lower internal consent. In a path model, SV history was indirectly related to use of direct nonverbal and passive consent cues through greater emotion dysregulation and lower internal consent. Contrary to expectations, higher internal consent was associated with greater use of passive external consent cues. Consent programming could be augmented to encourage attention to and regulation of emotions in sexual situations to improve communication and sexual well-being.
 
--   Date Accepted: June 9, 2024
+#### Cross-Lab Collaborations
 
--   Role: Last author. Worked on literature review, assisted in writing the introduction, editing the initial manuscript submission, writing requested additions, and applying revisions.
+1.  Wyant, K., Moshontz, H., **Ward, S.B.**, Fronk, G., Curtin, J. J. (2023). Acceptability of Personal Sensing Among People With Alcohol Use Disorder: Observational Study. *JMIR Mhealth Uhealth*, 11(e41833), <https://doi.org/10.2196/41833>.
 
-Wyant, K., Moshontz, H., Ward, S.B., Fronk, G., Curtin, J. J. (2023). Acceptability of Personal Sensing Among People With Alcohol Use Disorder: Observational Study. *JMIR Mhealth Uhealth*, 11(e41833), <https://doi.org/10.2196/41833>.
+Relative contributions:
 
--   Role: Middle author. Worked on literature review, assisted in writing the introduction and editing the manuscript.
+-   Conceptualization - 10%
+-   Design - 10%
+-   Analysis - NA
+-   Writing - 10%
 
-#### Under Review
+#### Post-bacc Publications
 
-Ward, S. B., Hassanpour, P., Walsh, K. (2023). Process-based consent among college men: The interactive influence of hostility toward women, perceived peer norms, and alcohol-involved sexual consent attitudes. *Sex Roles.* Registration DOI (anonymized view-only link for masked peer review): <https://osf.io/zxrjp/?view_only=89295c61cb5f415c9f9526df9352d517>
+1.  **Ward, S. B.**, Boger, M., Fleishman, A., Shenkel, J., Calvo, A., Pomahac, B., Zwolak, R., Krishnan, N., Richman, K., Rodrigue, J.R. (2020). Attitudes toward organ, tissue and vascularized composite allograft (VCA) donation and transplantation: A survey of United States military veterans. Transplantation. <https://doi.org/10.1097/tp.0000000000003376>
 
--   Date Submitted: June 30, 2023
-
--   Date Re-Submitted: March 18, 2024  
-
--   Role: First author. Designed the research project, recruited and compensated participants, collected the data, performed all data cleaning and analysis, wrote initial manuscript submission (Rejected following peer-review, 21-Aug-2023), applied reviewer feedback, re-ran analyses, re-wrote manuscript, registered project on OSF, submitted revised manuscript to a different journal with analytic code included as supplemental material.
-
-#### Post-baccalaureate
-
-Ward, S. B., Boger, M., Fleishman, A., Shenkel, J., Calvo, A., Pomahac, B., Zwolak, R., Krishnan, N., Richman, K., Rodrigue, J.R. (2020). Attitudes toward organ, tissue and vascularized composite allograft (VCA) donation and transplantation: A survey of United States military veterans. Transplantation. <https://doi.org/10.1097/tp.0000000000003376>
-
-Robinson, K. A., Carroll, M., Ward, S. B., Osman, S., Chhabra, K. R., Arinze, N., Amedi, A., Kaafarani, H., Smink, D., Kent, T., Musa M. Aner, Brat, G. (2020). Implementing and evaluating a multihospital standardized opioid curriculum for surgical providers. Journal of Surgical Education, 77(3), 621--626. <https://doi.org/10.1016/j.jsurg.2019.12.012>
+2.  Robinson, K. A., Carroll, M., **Ward, S. B.**, Osman, S., Chhabra, K. R., Arinze, N., Amedi, A., Kaafarani, H., Smink, D., Kent, T., Musa M. Aner, Brat, G. (2020). Implementing and evaluating a multihospital standardized opioid curriculum for surgical providers. Journal of Surgical Education, 77(3), 621--626. <https://doi.org/10.1016/j.jsurg.2019.12.012>
 
 #### Capstone Presentation
 
@@ -143,37 +161,33 @@ Process-based consent refers to the ongoing consideration of a partner's willing
 
 #### Posters
 
-[*Presentations or posters at scientific meetings: Provide title, abstract, and date. If possible, a pdf of the poster or related handout should also be included. These can include presentations/posters at local meetings.*]{.underline}
+*\*\*Mentored presentation by an undergraduate mentee.*
 
-\*\*Williams, A., Gitlin, S., Panwalkar, S., Ward, S.B., & Walsh, K. Does Anxiety Moderate the Effect of Peer Drinking Norms on Past-Month Alcohol-Induced Blackouts? An Observational Study Among College Students. Poster presented at the Wisconsin Symposium on Emotion (WSoE) 2024.\
+1.  \*\*Does Anxiety Moderate the Effect of Peer Drinking Norms on Past-Month Alcohol-Induced Blackouts? An Observational Study Among College Students.\
 
-\*\*Melnik, J., Nardella, S., Ward, S.B., & Walsh, K. (2023). Associations Between Lifetime Sexual Violence and Engaging in Choking During Sex: Findings from an Undergraduate Sample. Poster presented at the 2023 Annual Conference of the Society for the Scientific Study of Sexuality (SSSS).\
+2.  \*\*Associations Between Lifetime Sexual Violence and Engaging in Choking During Sex: Findings from an Undergraduate Sample.\
 
-\*\*Bujan, G., Kidd, G., Williams, A., Mehta, A., Ward, S.B., Walsh, K. (2023). Manner of Drinking as a Mediator of Emotional Impulsivity and Alcohol-Related Problems. Poster presented at the Wisconsin Symposium on Emotion (WSoE) 2023.\
+3.  \*\*Manner of Drinking as a Mediator of Emotional Impulsivity and Alcohol-Related Problems.\
 
-Ward, S.B., Walsh, K. (2022). Alcohol-Induced Blackouts and Nonconsensual Sexual Experiences Among Undergraduate Men. Poster presented for the Child Maltreatment & Interpersonal Violence Special Interest Group (SIG) at the 56th annual meeting of the Association for Behavioral and Cognitive Therapy (ABCT).\
+4.  Alcohol-Induced Blackouts and Nonconsensual Sexual Experiences Among Undergraduate Men.\
 
-Ward, S.B., Hassanpour, P., Walsh, K. (2022). Sexual Consent Among College Men: The Moderating Effects of Alcohol-Involved Sex & Hostility Toward Women. Poster presented at the 2022 Annual Conference of the Society for the Scientific Study of Sexuality (SSSS).\
+5.  Sexual Consent Among College Men: The Moderating Effects of Alcohol-Involved Sex and Hostility Toward Women.\
 
-Ward, S.B., Lowe, R.S., Walsh, K. (2021). Associations between Sexual Assault History and Sexual Consent Feelings and Behaviors among College Students: A Path Model Involving Alcohol Use Prior to Sex & Emotion Dysregulation. Poster presented at the 55th annual meeting of the Association for Behavioral and Cognitive Therapy (ABCT).\*\
+6.  Associations between Sexual Assault History and Sexual Consent Feelings and Behaviors among College Students: A Path Model Involving Alcohol Use Prior to Sex & Emotion Dysregulation.\
 
-\*\*Iyer, R., Ward, S.B., Walsh, K. (2021). Sexual Assault Resistance Strategies, Blame, and Mental Health Outcomes. Poster presented at the 37th annual meeting of the International Society for Traumatic Stress Studies (ISTSS).\*\
+7.  \*\*Sexual Assault Resistance Strategies, Blame, and Mental Health Outcomes.\
 
-Hamilton, K., Ward, S. B., Matis, E., Walsh, K. (2020). Sexual Assault Victimization and Perpetration among those Involved in Greek Life and Varsity Athletics: A Large National Study. Poster presented at the 54th annual meeting of the Association for Behavioral and Cognitive Therapy (ABCT).\*\
+8.  Sexual Assault Victimization and Perpetration among those Involved in Greek Life and Varsity Athletics: A Large National Study.\
 
-Robinson, K. A., Carroll, M., Ward, S. B., Brat, G., (2019). Multi-Institutional Patient-Reported Opioid Use Compared to Clinical Consensus Recommendations. Poster presented at the Harvard Surgical Research Day, Boston, MA.\
+9.  Multi-Institutional Patient-Reported Opioid Use Compared to Clinical Consensus Recommendations.\
 
-Robinson, K. A., Ward, S. B., Brat, G., (2018). Comparing Reality to Consensus: Reported Opioid Use vs. Clinician Consensus Recommendations. Poster presented at the Silverman Symposium for Health Care Quality and Safety, Boston, MA.\
-
-\*\*Mentored presentation by an undergraduate mentee. Virtual due to the coronavirus pandemic.\*
+10. Comparing Reality to Consensus: Reported Opioid Use vs. Clinician Consensus Recommendations.
 
 #### Workshops
 
-[*Attended or led: Provide title, workshop summary, and date*]{.underline}
-
 **Attended**
 
--   Academic Job Materials Workshop - Princeton Psychology/Neuroscience Postdoctoral DEI Committee
+-   Academic Job Materials Workshop - Princeton Psychology Postdoctoral DEI Committee
 -   Mixture Modeling and Latent Class Analysis -- Daniel J. Bauer, PhD, and Doug Steinley, PhD
 -   Responsible Authorship and Publication -- Margarita Kaushanskaya, PhD,
 -   Research Misconduct and Policies for Handling Misconduct -- Brain Fox, PhD
@@ -258,15 +272,17 @@ De-identified assessment reports are available here.
 
 Systemic issues that threaten diversity, equity, and inclusion are inextricably linked to the roles I inhabit as a feminist research scientist and aspiring clinical psychologist.
 
-I study sexual violence, the burden of which is inequitably distributed. Racialized and other minoritized groups are affected more than others, and the risk of experiencing sexual violence victimization is compounded among those with multiple marginalized identities. I promote equity through sexual violence research by investigating the nature of these disparities and facilitating efforts to eliminate them. To this end, I subscribe to the contemporary constructivist philosophy of science and use theory that shares core constructivist assumptions to guide my research. For example, a constructionist framework contradicts the positivist notion of a mind-independent, absolute truth, instead positing that reality is malleable and socially "constructed" (DeLamater & Hyde, 1998). This framework assumes social problems are actively made, not simply revealed, a core tenet of feminist science and the scholarly literature on societal norms that perpetuate sexual violence and gender-based power dynamics (Chasteen, 2001).
+I study sexual violence, the burden of which is inequitably distributed. Racialized and other minoritized groups are disproportionately impacted by sexual violence and the risk of victimization is compounded among those with multiple marginalized identities. I promote equity through sexual violence research by investigating the nature of these disparities and facilitating efforts to eliminate them. Producing rigorous, high-quality science in this area of study requires cultural humility, awareness of subjectivity, and recognition of racist, patriarchal power structures.
 
-Social problems are actively made in society at large but also within our communities and institutions. Promoting diversity, equity, and inclusion therefore requires turning inward to examine the principles and practices used in the conduct of academic research. There are current practices in psychological science that exclude scholars from marginalized backgrounds, which may serve to maintain white supremacy (Buchanan et al., 2021). I use open science practices that support the sharing and reuse of research assets to help mitigate inequalities disadvantaging under-resourced scholars by increasing accessibility. The open science movement explicitly features collaborative, prosocial ideals known to engage members of underrepresented groups and cultivate a more inclusive culture (Murphy et al., 2020). These ideals reflect my values and align with my long-term goal of working as part of a cooperative research team.
+To this end, I subscribe to the contemporary constructivist philosophy of science and use theory aligned with its core assumptions to guide my research. For example, a constructionist framework contradicts the positivist notion of a mind-independent, absolute truth, instead positing that reality is malleable and "constructed" through social processes (DeLamater & Hyde, 1998). This framework assumes social problems are actively made, not simply revealed, a core tenet of feminist science and the scholarly literature on societal norms that perpetuate sexual and gender-based violence.
+
+Social problems are actively made in society at large but also within our communities and institutions. Promoting diversity, equity, and inclusion therefore requires turning inward to examine the principles and practices used in the conduct of our research. There are current practices in psychological science that exclude scholars from marginalized backgrounds, which perpetuates white supremacy (Buchanan et al., 2021). I use open science practices that facilitate sharing and reuse of research assets to help mitigate inequalities disadvantaging under-resourced scholars via increased accessibility. The open science movement explicitly features collaborative, prosocial ideals known to engage members of under-represented groups and cultivate a more inclusive culture (Murphy et al., 2020). These ideals reflect my values and align with my long-term goal of working as part of a cooperative research team.
 
 ### DEI Training Record
 
 #### Case Conceptualization
 
-The conceptualization, treatment plan, and case summary for a patient with intersecting marginalized identities is accessible here.
+The integrated intake assessment, conceptualization, treatment plan, and case summary for a patient with intersecting marginalized identities is accessible here.
 
 #### DEI - Workshops, Seminars, and Lectures
 
