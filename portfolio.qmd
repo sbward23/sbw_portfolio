@@ -1,6 +1,9 @@
 ---
-title: "Clinical Portfolio"
-author: "Stephanie B. Ward, M.S."
+title: Clinical Portfolio
+date: 2024-07-30
+author:
+  - name: Stephanie B. Ward, M.S.
+    affiliation: University of Wisconsin-Madison
 format:
   html:
     toc: true
@@ -124,7 +127,7 @@ Relative contributions:
 
 Sexual consent has been a major focus of campus campaigns to reduce sexual violence (SV). However, these campaigns often educate students about consent with little attention to the complex ways consent can be experienced, expressed, and interpreted by others. Further, little research has focused on the consent feelings and communication cues of students who have a history of SV, nor have studies examined how the ability to attend to and regulate emotions relates to internal feelings or external communication of consent. This secondary analysis examined SV histories, emotion dysregulation, and internal and external consent cues in a sample of 610 college students (72% women) who completed an online self-report survey. Findings revealed that students with SV histories (n = 257) reported greater emotion dysregulation, lower internal consent, and greater use of passive external consent cues compared to students without SV histories; greater emotion dysregulation was associated with lower internal consent. In a path model, SV history was indirectly related to use of direct nonverbal and passive consent cues through greater emotion dysregulation and lower internal consent. Contrary to expectations, higher internal consent was associated with greater use of passive external consent cues. Consent programming could be augmented to encourage attention to and regulation of emotions in sexual situations to improve communication and sexual well-being.
 
-#### Cross-Lab Collaborations
+#### Cross-Lab Collabs
 
 1.  Wyant, K., Moshontz, H., **Ward, S.B.**, Fronk, G., Curtin, J. J. (2023). Acceptability of Personal Sensing Among People With Alcohol Use Disorder: Observational Study. *JMIR Mhealth Uhealth*, 11(e41833), <https://doi.org/10.2196/41833>.
 
@@ -146,42 +149,49 @@ Relative contributions:
 *Sexual Violence in University Students: A Multi-Level Approach to Understanding the Perpetration of Sexual Aggression*
 
 -   Date presented: April 26, 2024
-
-**Abstract**
+-   Link: Slide deck
 
 #### Lunch and Learn Presentation
 
 *Process-Based Consent Among College Men: The Interactive Influence of Hostility Toward Women, Perceived Peer Norms, and Alcohol-involved Sexual Consent Attitudes*
 
 -   Date Presented: February 20, 2023  
-
-**Abstract**
-
-Process-based consent refers to the ongoing consideration of a partner's willingness to engage in sexual activity and continual communication with that partner. Drawing upon research identifying individual-, situational-, and peer-level factors that contribute to men's perpetration of sexual violence, the current study used online survey data and hierarchical linear regression to examine how permissive attitudes toward sexual consent experiences involving alcohol use, hostility toward women, and perceived peer norms in support of abuse influence process-based consent among college men (N = 463; M age = 19.32; 93% heterosexual, 64% white, non-Hispanic). Findings revealed all three primary study variables were independently associated with weaker process-based consent while adjusting for fraternity membership, relationship status, and sexual history. A significant three-way interaction indicated that the negative association between permissive alcohol-involved sexual consent attitudes and process-based consent was exacerbated when both hostility toward women and peer support of abuse were high, implying a complex relationship between multiple forces shaping college men's approaches to sexual consent. Implications for consent education and violence prevention are discussed, including the need for interventions that address process-level interactions between personal beliefs and gendered peer group norms concerning alcohol use and sexual behavior.
+-   Link: Slide deck
 
 #### Posters
 
 *\*\*Mentored presentation by an undergraduate mentee.*
 
-1.  \*\*Does Anxiety Moderate the Effect of Peer Drinking Norms on Past-Month Alcohol-Induced Blackouts? An Observational Study Among College Students.\
+1.  **\*\*Does Anxiety Moderate the Effect of Peer Drinking Norms on Past-Month Alcohol-Induced Blackouts? An Observational Study Among College Students.** April 17, 2024.
 
-2.  \*\*Associations Between Lifetime Sexual Violence and Engaging in Choking During Sex: Findings from an Undergraduate Sample.\
+    Social anxiety and drinking for social reasons have been positively associated with alcohol consumption among college students.^1-2^ Prior work also suggests that emotion dysregulation, peer norms, and drinking for anxiety-coping can lead to alcohol-related problems.^3^  Still, it remains unclear how these factors relate to alcohol-induced blackouts (AIBs). Given the high comorbidity of social and generalized anxiety, the current study extends previous research by investigating whether generalized anxiety moderates the association between peer drinking norms and AIBs. We hypothesized that generalized anxiety symptoms and peer drinking norms would interact such that students with more anxiety would be more susceptible to higher peer drinking norms, resulting in more frequent past-month AIBs. We further hypothesized that the interaction between generalized anxiety and peer drinking norms would explain unique variance in AIBs when controlling for emotion dysregulation and other alcohol-related problems. Overdispersed data prompted two quasi-Poisson regressions. Contrary to Hypothesis 1, the results of our first model indicated that the interaction between generalized anxiety and peer drinking norms was significant but negative (β = -0.006, SE = 0.003, z = -2.207, p = .027), which suggests higher peer drinking norms increased blackout frequency and that this effect was less pronounced in students with greater anxiety. In line with our second hypothesis, the interaction remained significant after adjusting for covariates (β = -0.031, SE = 0.012,  z = -2.628, p = .009), which further suggests generalized anxiety symptoms buffer the influence of peer drinking norms on AIBs. Implications for intervention and future research are discussed.
 
-3.  \*\*Manner of Drinking as a Mediator of Emotional Impulsivity and Alcohol-Related Problems.\
+2.  **\*\*Associations Between Lifetime Sexual Violence and Engaging in Choking During Sex: Findings from an Undergraduate Sample.** November 15, 2023.
 
-4.  Alcohol-Induced Blackouts and Nonconsensual Sexual Experiences Among Undergraduate Men.\
+    Background: Sexual choking is a behavior that some engage in to heighten sexual pleasure, replicate gendered sex scripts, and explore kinky behaviors (Herbenick, 2020; Tarr, 2016). However, choking can lead to unintended and dangerous consequences because applying external pressure on the neck can restrict airflow and cause brain anoxia (Sauvageau & Boghossian, 2010; Hou et al., 2023). Women are more likely to be choked than men and men are more likely to choke a partner compared to women (Bridges et al., 2016; Wright et al., 2015). Lesbian, gay, and bisexual students are more likely to engage in choking compared to straight students (Herbenick et al., 2021). Although likelihood of engaging in BDSM is not associated with experiencing sexual trauma (Ten Brink, 2021), engaging in kink play or rough sex may be empowering for survivors of sexual trauma (Cascalheira, 2021). However, to our knowledge, associations between sexual violence and sexual choking (not in the context of a violent encounter) have yet to be explored. Methods: The current study seeks to understand the relationship between sexual violence and choking during sex. College students (N = 228; 56.1% female; 69.7% white; 86.4% heterosexual; mean age = 18.6) completed an online survey about sexual behavior including questions about the frequency of engaging in choking, the degree to which they enjoyed it, and how often they engaged in choking despite not enjoying it. Results: Findings indicated that 56.6% had participated in choking at least once, 31% had engaged in choking more than 1x/month, and 16% indicated that they engaged in choking despite not enjoying it. Consistent with prior work, women were more likely to report choking compared to men, Χ2 = 6.23, p = .01, but contrary to expectations, no differences were observed for sexual orientation, Χ2 = 1.12, p = .29. 44.7% of the sample reported lifetime sexual violence. After controlling for gender, sexual orientation, and age of first consensual sexual encounter, participants who reported sexual victimization during their lifetime had increased odds of reporting engagement in choking (OR: 1.962, 95% CI: 1.139-3.378) and choking despite not enjoying it (OR: 5.501, 95% CI: 1.994-15.178). Conclusion: Future qualitative research could explore the ways in which individuals who engage in choking conceptualize their own sexual agency and desires along with their willingness and ability to communicate consent to engage in choking during sex.
 
-5.  Sexual Consent Among College Men: The Moderating Effects of Alcohol-Involved Sex and Hostility Toward Women.\
+3.  **\*\*Manner of Drinking as a Mediator of Emotional Impulsivity and Alcohol-Related Problems.**\
+    April 19, 2023.
 
-6.  Associations between Sexual Assault History and Sexual Consent Feelings and Behaviors among College Students: A Path Model Involving Alcohol Use Prior to Sex & Emotion Dysregulation.\
+4.  **Alcohol-Induced Blackouts and Nonconsensual Sexual Experiences Among Undergraduate Men.**
 
-7.  \*\*Sexual Assault Resistance Strategies, Blame, and Mental Health Outcomes.\
+    College students who have previously engaged in sexually coercive behavior tend to have significantly higher sex-related alcohol expectancies, while victims of unwanted sexual contact often report higher alcohol consumption, use fewer protective strategies, and experience more negative consequences due to their alcohol use (Palmer et al., 2010). One such consequence is experiencing more alcohol-induced blackouts (AIBs), or periods of memory loss for all or part of a drinking episode, and these periods of memory loss have been associated with a wide range of negative outcomes including sexual assault (SA) (Haas et al., 2016; Voloshyna et al., 2018). Individuals who have experienced SA victimization may use increasing amounts of alcohol to self-medicate assault-related distress (Stappenbeck et al., 2022) and those with a history of SA perpetration may more frequently drink to the point of blacking out as a tactic to avoid culpability in the pursuit of an intoxicated sexual partner (Ven & Beck, 2009) yet findings on what could be reciprocal associations between SA and AIBs have been mixed (Jaffe et al., 2022). Most of these associations have been observed among college women despite college men being more likely to report intentions to blackout (Wombacher et al., 2019), which is understandable considering the higher risk for SA victimization among women. However, given that men who have experienced or perpetrated  (Neal & Fromme, 2007) sexual violence often report heavy alcohol use, research examining whether victimization or perpetration histories are associated with AIBs among college men is needed. The current study characterized the prevalence and sociodemographic correlates of past-month AIBs among undergraduate men and examined whether nonconsensual sexual experiences since age 14 were significant predictors of AIBs within this population. Among 473 undergraduate men (40% fraternity members; mean age = 19.3; 37% students of color) who completed an online survey assessing alcohol use and sexual history, 61.73% reported experiencing an AIB within the past month. Past-month AIB severity was positively associated with fraternity membership (*β* = 0.67, F(1,471) = 41.21, *p* \< .001)  and white racial identity (*β* = -0.24, F(1,471) = 4.66, *p* = .03). More than one-third of the sample reported at least one nonconsensual sexual experience since age 14 (39.74% SA victimization, 8.48% perpetration) and a series of quasi-Poisson regressions revealed that both SA victimization (*β* = 0.44, F(1,461) =17.31, *p* \< .001) and perpetration (*β* = 0.40, F(1,470) = 6.04, *p* = .01) were significant predictors of past-month AIB severity. Alcohol and sex education programs are often conducted separately, and these data suggest it may be important to consider their reciprocal associations. Campus health centers might consider screening for SA victimization among college men with problematic alcohol use, as our data suggest victimization experiences may have previously been underestimated within this population (Fedina et al., 2018; Mellins et al., 2017) already at increased risk of incurring alcohol-related harm.
 
-8.  Sexual Assault Victimization and Perpetration among those Involved in Greek Life and Varsity Athletics: A Large National Study.\
+5.  **Sexual Consent Among College Men: The Moderating Effects of Alcohol-Involved Sex and Hostility Toward Women.** November 5, 2022.\
+    \
+    Sexual consent has been defined as an individual's voluntary, sober, and conscious willingness to engage in sexual activity (Willis et al., 2021). Process-based consent (PBC) builds on this definition to encourage ongoing and collaborative communication throughout sexual encounters. A potential threat to engaging in PBC is alcohol-involved sexual activity, which is highly prevalent among college students (Herbenick et al., 2010). Alcohol-related impairment can diminish an individual's ability to consent, yet perceptions of consent for alcohol-involved sexual activity vary amongst college students (Hills et al., 2021). Additional barriers to PBC may stem from hostile masculine norms (e.g., acceptance of violence toward women), as researchers have found that men who endorse these norms also report more negative attitudes toward consent (Hermann et al., 2018). The current study sought to examine the interactive effects of positive attitudes toward alcohol-involved sex (AIS) and hostility toward women (HTW) at the individual- and peer-level (i.e., perceptions of peers' HTW) on college men's endorsement of PBC. Quantitative analyses were conducted using self-report survey data from undergraduate men (N = 463) at a heavy-drinking public university in the midwestern United States. After controlling for the effects of heavy episodic drinking and relationship status, a series of linear regressions revealed a significant, negative association between positive attitudes toward AIS and PBC (β = -0.56, F(1, 459) = 191.75, p \< .001), which was negatively moderated by HTW (β = -0.19, F(1, 457) = 12.29, p \< .001) and perceptions of peers' HTW (β = -0.18, F(1, 457) = 18.50, p \< .001). Results imply that positive attitudes toward AIS are not conducive to PBC. Approval of AIS may represent a salient threat to PBC among college men who hold hostile attitudes toward women and/or among those who believe their peers hold hostile attitudes toward women. The authors conclude by discussing the implications of these findings and their relevance to campus sexual health initiatives.
 
-9.  Multi-Institutional Patient-Reported Opioid Use Compared to Clinical Consensus Recommendations.\
+6.  **Associations between Sexual Assault History and Sexual Consent Feelings and Behaviors among College Students: A Path Model Involving Alcohol Use Prior to Sex & Emotion Dysregulation.** November 18, 2021.
 
-10. Comparing Reality to Consensus: Reported Opioid Use vs. Clinician Consensus Recommendations.
+    Sexual assault is a significant problem among college students with approximately one in four college women reporting some form of unwanted sexual contact. Although sexual assault and substance use have been linked with emotion dysregulation and sexual risk taking, no studies of which we are aware have examined associations between sexual assault, substance use, emotion dysregulation and sexual consent feelings and behaviors. The current study examined associations between sexual assault history, substance use prior to sex, emotion dysregulation, and sexual consent feelings (i.e., willingness) and behaviors (i.e., consent communication) during a recent sexual encounter. Among 610 college students (72% female; mean age = 21.3; 44% underrepresented racial/ethnic groups) who completed an online survey, approximately 31% reported unwanted sexual contact since age 14 (15.7% men, 35.3% women), and 13.9% (15.9% men, 13.4% women) reported substance use prior to their most recent sexual encounter. The best fitting path model (*χ2* (*df* = 3) = 5.25, *p* = .15, *CFI* = .98, *RMSEA* = .03, *SRMR* = .02) revealed that a history of sexual assault was significantly positively associated with overall emotion dysregulation, which in turn was positively associated with substance use prior to sex but negatively associated with internal willingness during their most recent sexual encounter. Higher levels of willingness, in turn, were positively associated with the use of more external consent communication behaviors. Findings suggest that consent education programs for college students may need to consider the role of sexual assault victimization history and emotion dysregulation in addition to alcohol as factors that impact willingness to engage in sexual activity and downstream communication about consent.
+
+7.  **\*\*Sexual Assault Resistance Strategies, Blame, and Mental Health Outcomes.** November 4, 2021.
+
+    Sexual assault has been associated with posttraumatic stress disorder (PTSD) and depression. The resistance strategies a survivor employs (forceful, non-forceful, or passive) and the blame one attributes (towards self or rapist) for an assault may affect these outcomes. To our knowledge, these factors have not been analyzed together. We hypothesized that greater use of passive resistance strategies and higher levels of self-blame would be positively associated with PTSD and depressive symptoms. We used online survey data from 62 male and female university students who reported an unwanted sexual experience. As predicted, bivariate correlations showed that greater use of passive resistance strategies was positively correlated with PTSD (*r*=.51, *p*\>.001) and depression (*r*=.27, *p*\>.05) symptoms, and higher levels of self-blame (*r*=.25, *p*\>.05). Higher levels of self-blame were also positively associated with PTSD (*r*=.40, *p*\>.01) and depression (*r*=.31, *p*\>.05) symptoms. The finding that passive resistance strategies were associated with negative mental health outcomes may reflect internalization of rape myths, whereby survivors who do not actively fight back or clearly say no consider themselves responsible for their assaults. Findings also may inform treatment of patients with sexual victimization histories by targeting the role of self-blame in the onset of PTSD and depression.
+
+8.  **Sexual Assault Victimization and Perpetration among those Involved in Greek Life and Varsity Athletics: A Large National Study.** November 19, 2020.
+
+    Studies on whether college students involved in fraternities, sororities, and campus athletics are at increased risk for sexual assault victimization and perpetration have yielded mixed findings, and many existing studies are dated and focus on samples at single universities. Past research has found that fraternity and sorority members consume more alcohol than nonmembers and suggest this as a potential factor contributing to higher rates of sexual assault among Greek members (Franklin, 2016; Murnen & Kohlman, 2007). Fraternity and sorority members are also more likely to report using drinking protective behavioral strategies (PBS), a trend mirrored by varsity athletes (citation?). PBS have been suggested as a potential preventive method of reducing sexual assault risk (Neilson et al., 2018). The current study seeks to examine these patterns using a large national sample drawn across multiple campuses between 2011-2013. Participants were 88,975 students (M age = 22.3, SD = 6.2; 72.7% White; 65.2% female, 32.5% male, 0.3% transgender) from 62 different campuses. Students received a survey broadly about college student health. Approximately 11% (12.1% women, 10.6% men) of participants reported involvement in a fraternity or sorority and 8.0% (7.5% women, 9.2% men) reported involvement in varsity athletics in the previous 12 months. Chi-square analyses run separately by gender revealed that female, male, and transgender students involved in Greek life were significantly more likely than students who were not to report unwanted sexual touching (ps \<.001), attempted sexual penetration (ps \<.01), and completed penetration (ps \<.05). Similar patterns emerged for female, male, and transgender students involved in varsity athletics. Among students who reported any drinking, students of all genders involved in Greek life and athletics were more likely to report that someone had sex with them without their consent while they were drinking (ps \<.01), and male and transgender students involved in Greek life (ps \<.001) and varsity athletics (ps \<.05) were more likely to report that they had sex with someone without their consent while drinking. Notably, protective behavioral strategies do not seem to serve as a protective factor for sexual assault among these populations. Findings have important implications for collegiate athletics as well as Greek organizations, suggesting the alcohol education programs in use with these students across campuses need to incorporate curriculum addressing issues around consent. Further, there is a heightened need for evidence-based sexual violence prevention programming for sorority women, fraternity men, and varsity athletes that covers substance-facilitated sexual assault.
 
 #### Workshops
 
@@ -223,8 +233,6 @@ Described below in the Teaching and Mentorship section.
 
 #### Practicum Experiences
 
-[*Brief description should include the name and dates for the practicum, brief description of the client population and other relevant details (e.g., interventions, modalities). This should include documentation of clinical hours (per internship categories) and available/completed supervisor evaluations.*]{.underline}
-
 **University Health Services, University of Wisconsin-Madison**
 
 September 1, 2022 - May 13, 2023, 16 - 20 hours per week
@@ -237,7 +245,7 @@ September 1, 2022 - May 13, 2023, 16 - 20 hours per week
 -   Group Therapy Seminar/Supervision: 1.5 hours every other Friday.
 -   Administrative/Case Notes: 3-5 hours/week.
 
-As a practicum trainee in the Mental Health Services division of our institution's health center, I maintained a clinical caseload of 10-18 young adults. My patients were undergraduate and graduate students who presented with symptoms consistent with social and generalized anxiety, posttraumatic stress, attention-deficit/hyperactivity disorder, and substance dependence, though concerns specific to depression, suicidal thoughts, self-injurious behaviors, poor body image/disordered eating and low self-worth were also quite common. During this clinical practicum, I gained experience working as a multidisciplinary team member within a coordinated care model. I collaborated with clinicians from other service divisions including crisis stabilization, primary care, OB/GYN, and psychiatry to provide holistic care to each patient. While at UHS and thereafter, I drew most heavily from third-wave cognitive behavioral approaches including dialectical behavior therapy (DBT), acceptance and commitment therapy (ACT), and motivational interviewing. In facilitating "DBT Skills" and "ACT for Social Anxiety" therapy groups, I deeply engaged with these modalities and used what I learned to cultivate a more grounded professional identity. Through this practicum experience, my therapeutic approach grew to center mindfulness, values, and emotions, employing culturally-informed conceptualization and goal-oriented treatment planning.
+As a practicum trainee in the Mental Health Services division of our institution's health center, I maintained a clinical caseload of 10-18 young adults at a time, treating 35 individual patients in total. My patients were undergraduate and graduate students who presented with symptoms consistent with social and generalized anxiety, posttraumatic stress, attention-deficit/hyperactivity disorder, and major depressive disorder, though concerns specific to substance misuse, suicidal thoughts, self-injurious behaviors, gender dysphoria, poor body image and low self-worth were also quite common. During this clinical practicum, I gained experience working as a multidisciplinary team member within a coordinated care model. I collaborated with clinicians from other service divisions including crisis stabilization, primary care, OB/GYN, and psychiatry to provide holistic care to each patient. While at UHS and thereafter, I drew most heavily from third-wave cognitive behavioral approaches including dialectical behavior therapy (DBT), acceptance and commitment therapy (ACT), and motivational interviewing. In facilitating "DBT Skills" and "ACT for Social Anxiety" therapy groups, I deeply engaged with these modalities and used what I learned to cultivate a more grounded professional identity. Through this practicum experience, my therapeutic approach grew to center mindfulness, values, and emotions, employing culturally-informed conceptualization and goal-oriented treatment planning.
 
 ```{r,echo=FALSE}
 #| label: tbl-uhs
@@ -245,8 +253,23 @@ As a practicum trainee in the Mental Health Services division of our institution
 
 # create data frame
 uhs_summ <- data.frame(
-  Summary = c("Individual Therapy", "Group Counseling", "Assessment", "Total Direct", "Total Support"),
-  Hours = c("117", "36", "27", "180", "87.25"))
+  Summary = c("Intervention", "Assessment", "Total Direct", "Supervision"),
+  Hours = c("153.00", "27.00", "180.00", "87.25"))
+# format table
+kable(uhs_summ, booktabs = TRUE, align = 'lr', col.names = c("Summary", "Hours")) %>%
+  kable_styling(full_width = FALSE)
+```
+
+**Psychology Research and Training Clinic, University of Wisconsin-Madison**
+
+```{r,echo=FALSE}
+#| label: tbl-prtc
+#| tbl-cap: "Hours by Type at PRTC"
+
+# create data frame
+prtc_summ <- data.frame(
+  Summary = c("Intervention", "Assessment", "Total Direct", "Supervision"),
+  Hours = c("173.75", "63.50", "237.25", "151.50"))
 # format table
 kable(uhs_summ, booktabs = TRUE, align = 'lr', col.names = c("Summary", "Hours")) %>%
   kable_styling(full_width = FALSE)
@@ -256,15 +279,15 @@ kable(uhs_summ, booktabs = TRUE, align = 'lr', col.names = c("Summary", "Hours")
 
 De-identified assessment reports are available here.
 
-1\. PDD
+1\. [ASPD](https://github.com/sbward23/sbw_portfolio/blob/main/documents/de-identified%20reports/de-identified_17M_ASPD.doc)
 
-2\. ADHD
+2\. [ADHD](https://github.com/sbward23/sbw_portfolio/blob/main/documents/de-identified%20reports/de-identified_29M_ADHD.doc)
 
-3\. ASPD
+3\. [PDD](https://github.com/sbward23/sbw_portfolio/blob/main/documents/de-identified%20reports/de-identified_39M_PDD.docx)
 
-4\. ED - BN
+4\. [ED - BN](https://github.com/sbward23/sbw_portfolio/blob/main/documents/de-identified%20reports/de-identified_18F_BN.docx)
 
-5\. cPTSD, cross-listed with DEI
+5\. [cPTSD](https://github.com/sbward23/sbw_portfolio/blob/main/documents/de-identified%20reports/de-identified_22F_cPTSD.docx), cross-listed with DEI
 
 ## Diversity, Equity, and Inclusion
 
@@ -282,7 +305,7 @@ Social problems are actively made in society at large but also within our commun
 
 #### Case Conceptualization
 
-The integrated intake assessment, conceptualization, treatment plan, and case summary for a patient with intersecting marginalized identities is accessible here.
+The integrated intake assessment report, including case conceptualization and treatment plan, for a patient with intersecting marginalized identities is accessible [here](https://github.com/sbward23/sbw_portfolio/blob/main/documents/de-identified%20reports/de-identified_22F_cPTSD.docx).
 
 #### DEI - Workshops, Seminars, and Lectures
 
@@ -317,8 +340,6 @@ This mentorship experience was deeply enriching, as it allowed me to contribute 
 
 ### Teaching Experiences
 
-[*Include course evaluation summary statistics and raw evaluations.*]{.underline}
-
 Starting in the Spring semester of 2022, I served as Dr. Janet Hyde's Head Teaching Assistant for the Psychology of Human Sexuality course (PSYC/SOC 453). I led four weekly discussion sections, each consisting of 15-20 undergraduates, encouraging critical thinking and deeper engagement with course materials. My responsibilities extended to coordinating testing, managing section changes, and overseeing the grading process for the 300-student lecture course. I also delivered two guest lectures on love and gender, which were well-received by students.
 
 During the Fall semester of 2022, I was a Teaching Assistant for the Introductory Psychology course (PSYC 202), taught by Dr. Rebecca Addington. This large, 400-student lecture course required meticulous organization and pedagogical skills; I was responsible for grading approximately 400 short essay assignments each week. Additionally, I managed logistical aspects of the course such as scheduling, proctoring, and hand-scoring makeup exams. I also supported students through tutoring during office hours, by appointment, and via email, ensuring their academic and personal support.
@@ -326,6 +347,20 @@ During the Fall semester of 2022, I was a Teaching Assistant for the Introductor
 In January, 2024, I delivered a Guest Lecture at the School of Pharmacy for Karen Kopacek, MS, RPh. The lecture focused on emotional stress and compassion fatigue and was psychoeducational in nature, as I integrated practical skills such as mindfulness, distress tolerance, and emotion regulation to support future healthcare professionals.
 
 These experiences have shaped my teaching philosophy and approach, reinforcing my commitment to fostering an interactive and supportive educational environment.
+
+### TA Evals - Human Sexuality PSY453
+
+-   Link: Section 301, Human Sexuality PSY453
+
+-   Link: Section 302, Human Sexuality PSY453
+
+-   Link: Section 303, Human Sexuality PSY453
+
+-   Link: Section 316, Human Sexuality PSY453
+
+-   Link: Eval by Faculty, Human Sexuality PSY453
+
+-   Link: Course Eval, Intro PSY202 - no instruction as TA
 
 ### Mentorship Experiences
 
