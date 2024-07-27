@@ -62,7 +62,7 @@ Experiencing this powerlessness firsthand clarified my purpose on a deeper level
 
 ### Curriculum Vitae
 
-CV can be accessed here.
+CV can be accessed [here](https://github.com/sbward23/sbw_portfolio/blob/main/materials/CV-7-2024.pdf).
 
 ### Transcript
 
@@ -87,22 +87,26 @@ Ultimately, I aspire to leverage the strengths of multimodal ambulatory assessme
 #### Submitted Version of the FYP
 
 1.  **Ward, S. B.**, Hassanpour, P., Walsh, K. (2023). Process-based consent among college men: The interactive influence of hostility toward women, perceived peer norms, and alcohol-involved sexual consent attitudes. *Under Review, the submitted manuscript is available in pdf format [at this link](https://github.com/sbward23/sbw_portfolio/blob/main/materials/My%20Papers/Ward%20et%20al.%2C%20submission%20-%20sex%20roles.pdf).*
-    -   Registration DOI (anonymized view-only link for masked peer review): <https://osf.io/zxrjp/?view_only=89295c61cb5f415c9f9526df9352d517> 
-
-Relative contributions:
-
--   Conceptualization - 60%
--   Design - 60%
--   Analyses - 90%
--   Writing - 70%
+    -   Registration DOI (anonymized view-only link for masked peer review): <https://osf.io/zxrjp/?view_only=89295c61cb5f415c9f9526df9352d517>
 
 **Abstract**
 
 Process-based consent refers to the ongoing consideration of a partner's willingness to engage in sexual activity and continual communication with that partner. Drawing upon research identifying individual-, situational-, and peer-level factors that contribute to men's perpetration of sexual violence, the current study used online survey data and hierarchical linear regression to examine how permissive attitudes toward sexual consent experiences involving alcohol use, hostility toward women, and perceived peer norms in support of abuse influence process-based consent among college men (N = 463; M age = 19.32; 93% heterosexual, 64% white, non-Hispanic). Findings revealed all three primary study variables were independently associated with weaker process-based consent while adjusting for fraternity membership, relationship status, and sexual history. A significant three-way interaction indicated that the negative association between permissive alcohol-involved sexual consent attitudes and process-based consent was exacerbated when both hostility toward women and peer support of abuse were high, implying a complex relationship between multiple forces shaping college men's approaches to sexual consent. Implications for consent education and violence prevention are discussed, including the need for interventions that address process-level interactions between personal beliefs and gendered peer group norms concerning alcohol use and sexual behavior.
 
+Relative contributions:
+
+-   Conceptualization - 60%
+-   Design - 60%
+-   Analyses - 100%
+-   Writing - 70%
+
 #### Published Empirical Studies
 
 1.  **Ward, S. B.**, Nardella, S., Hamilton, K. W., Walsh, K. (2024). "I Didn't Realize How Common It Was:" A Mixed-Methods Study Examining Changes in Perceptions of Sexual Assault, Sex and Consent, and Sexual Behavior as a Function of the #MeToo Movement. *The Journal of Sex Research*, 1--15. <https://doi.org/10.1080/00224499.2024.2352555>
+
+**Abstract**
+
+This mixed-methods study examined awareness and perceived legitimacy of the #MeToo movement and how #MeToo changed perceptions of sexual assault and consent, as well as sexual interactions, in the United States. Adults residing in the U.S. were recruited through CloudResearch to complete an online survey in 2021. Quantitative data from 680 participants (*M* age = 45.8, 60% women, 77.4% White) indicated moderate awareness and perceived legitimacy of the #MeToo movement; Black, LGBQ+, and more politically liberal respondents had greater #MeToo awareness while younger, more liberal respondents, and those with greater rejection of rape myths rated #MeToo more legitimate. Among 354 participants (*M* age = 45.0, 65.3% women, 76.4% White) who answered at least one open-ended question with regard to changes resulting from the #MeToo movement, thematic analysis revealed nine primary themes: (1) Describing change; (2) Change in understanding; (3) More cautious; (4) Wrong or requires reporting/punishment; (5) Gendered social norms; (6) Easier to talk about; (7) #MeToo rhetoric; (8) Consequences for survivors, and (9) Empowerment. Several sub-themes were identified among the primary themes and implications for sexual assault prevention and response were discussed. The study findings are contextualized by social constructionism, with a particular focus on gender-based power dynamics, contributing to a growing literature documenting the cultural impact of the #MeToo movement.
 
 Relative contributions:
 
@@ -111,11 +115,11 @@ Relative contributions:
 -   Analysis - 20%
 -   Writing - 50%
 
+2.  Walsh, K., Lowe, S. R., & **Ward, S.** (2024). Sexual Victimization, Emotion Dysregulation, and Sexual Consent Feelings and Communication During a Recent Sexual Encounter. *The Journal of Sex Research*, 1--9. <https://doi.org/10.1080/00224499.2024.2368044>
+
 **Abstract**
 
-This mixed-methods study examined awareness and perceived legitimacy of the #MeToo movement and how #MeToo changed perceptions of sexual assault and consent, as well as sexual interactions, in the United States. Adults residing in the U.S. were recruited through CloudResearch to complete an online survey in 2021. Quantitative data from 680 participants (*M* age = 45.8, 60% women, 77.4% White) indicated moderate awareness and perceived legitimacy of the #MeToo movement; Black, LGBQ+, and more politically liberal respondents had greater #MeToo awareness while younger, more liberal respondents, and those with greater rejection of rape myths rated #MeToo more legitimate. Among 354 participants (*M* age = 45.0, 65.3% women, 76.4% White) who answered at least one open-ended question with regard to changes resulting from the #MeToo movement, thematic analysis revealed nine primary themes: (1) Describing change; (2) Change in understanding; (3) More cautious; (4) Wrong or requires reporting/punishment; (5) Gendered social norms; (6) Easier to talk about; (7) #MeToo rhetoric; (8) Consequences for survivors, and (9) Empowerment. Several sub-themes were identified among the primary themes and implications for sexual assault prevention and response were discussed. The study findings are contextualized by social constructionism, with a particular focus on gender-based power dynamics, contributing to a growing literature documenting the cultural impact of the #MeToo movement.
-
-2.  Walsh, K., Lowe, S. R., & **Ward, S.** (2024). Sexual Victimization, Emotion Dysregulation, and Sexual Consent Feelings and Communication During a Recent Sexual Encounter. *The Journal of Sex Research*, 1--9. <https://doi.org/10.1080/00224499.2024.2368044>
+Sexual consent has been a major focus of campus campaigns to reduce sexual violence (SV). However, these campaigns often educate students about consent with little attention to the complex ways consent can be experienced, expressed, and interpreted by others. Further, little research has focused on the consent feelings and communication cues of students who have a history of SV, nor have studies examined how the ability to attend to and regulate emotions relates to internal feelings or external communication of consent. This secondary analysis examined SV histories, emotion dysregulation, and internal and external consent cues in a sample of 610 college students (72% women) who completed an online self-report survey. Findings revealed that students with SV histories (n = 257) reported greater emotion dysregulation, lower internal consent, and greater use of passive external consent cues compared to students without SV histories; greater emotion dysregulation was associated with lower internal consent. In a path model, SV history was indirectly related to use of direct nonverbal and passive consent cues through greater emotion dysregulation and lower internal consent. Contrary to expectations, higher internal consent was associated with greater use of passive external consent cues. Consent programming could be augmented to encourage attention to and regulation of emotions in sexual situations to improve communication and sexual well-being.
 
 Relative contributions:
 
@@ -123,10 +127,6 @@ Relative contributions:
 -   Design - 20%
 -   Analysis - NA
 -   Writing - 30%
-
-**Abstract**
-
-Sexual consent has been a major focus of campus campaigns to reduce sexual violence (SV). However, these campaigns often educate students about consent with little attention to the complex ways consent can be experienced, expressed, and interpreted by others. Further, little research has focused on the consent feelings and communication cues of students who have a history of SV, nor have studies examined how the ability to attend to and regulate emotions relates to internal feelings or external communication of consent. This secondary analysis examined SV histories, emotion dysregulation, and internal and external consent cues in a sample of 610 college students (72% women) who completed an online self-report survey. Findings revealed that students with SV histories (n = 257) reported greater emotion dysregulation, lower internal consent, and greater use of passive external consent cues compared to students without SV histories; greater emotion dysregulation was associated with lower internal consent. In a path model, SV history was indirectly related to use of direct nonverbal and passive consent cues through greater emotion dysregulation and lower internal consent. Contrary to expectations, higher internal consent was associated with greater use of passive external consent cues. Consent programming could be augmented to encourage attention to and regulation of emotions in sexual situations to improve communication and sexual well-being.
 
 #### Cross-Lab Collabs
 
@@ -157,7 +157,6 @@ Relative contributions:
 *Process-Based Consent Among College Men: The Interactive Influence of Hostility Toward Women, Perceived Peer Norms, and Alcohol-involved Sexual Consent Attitudes*
 
 -   Date Presented: February 20, 2023
--   PDF of slide deck can be accessed here.
 
 #### Posters
 
@@ -174,7 +173,7 @@ Relative contributions:
 3.  **\*\*Manner of Drinking as a Mediator of Emotional Impulsivity and Alcohol-Related Problems.**\
     April 19, 2023.
 
-4.  **Alcohol-Induced Blackouts and Nonconsensual Sexual Experiences Among Undergraduate Men.**
+4.  **Alcohol-Induced Blackouts and Nonconsensual Sexual Experiences Among Undergraduate Men.** November 18, 2022.
 
     College students who have previously engaged in sexually coercive behavior tend to have significantly higher sex-related alcohol expectancies, while victims of unwanted sexual contact often report higher alcohol consumption, use fewer protective strategies, and experience more negative consequences due to their alcohol use (Palmer et al., 2010). One such consequence is experiencing more alcohol-induced blackouts (AIBs), or periods of memory loss for all or part of a drinking episode, and these periods of memory loss have been associated with a wide range of negative outcomes including sexual assault (SA) (Haas et al., 2016; Voloshyna et al., 2018). Individuals who have experienced SA victimization may use increasing amounts of alcohol to self-medicate assault-related distress (Stappenbeck et al., 2022) and those with a history of SA perpetration may more frequently drink to the point of blacking out as a tactic to avoid culpability in the pursuit of an intoxicated sexual partner (Ven & Beck, 2009) yet findings on what could be reciprocal associations between SA and AIBs have been mixed (Jaffe et al., 2022). Most of these associations have been observed among college women despite college men being more likely to report intentions to blackout (Wombacher et al., 2019), which is understandable considering the higher risk for SA victimization among women. However, given that men who have experienced or perpetrated  (Neal & Fromme, 2007) sexual violence often report heavy alcohol use, research examining whether victimization or perpetration histories are associated with AIBs among college men is needed. The current study characterized the prevalence and sociodemographic correlates of past-month AIBs among undergraduate men and examined whether nonconsensual sexual experiences since age 14 were significant predictors of AIBs within this population. Among 473 undergraduate men (40% fraternity members; mean age = 19.3; 37% students of color) who completed an online survey assessing alcohol use and sexual history, 61.73% reported experiencing an AIB within the past month. Past-month AIB severity was positively associated with fraternity membership (*β* = 0.67, F(1,471) = 41.21, *p* \< .001)  and white racial identity (*β* = -0.24, F(1,471) = 4.66, *p* = .03). More than one-third of the sample reported at least one nonconsensual sexual experience since age 14 (39.74% SA victimization, 8.48% perpetration) and a series of quasi-Poisson regressions revealed that both SA victimization (*β* = 0.44, F(1,461) =17.31, *p* \< .001) and perpetration (*β* = 0.40, F(1,470) = 6.04, *p* = .01) were significant predictors of past-month AIB severity. Alcohol and sex education programs are often conducted separately, and these data suggest it may be important to consider their reciprocal associations. Campus health centers might consider screening for SA victimization among college men with problematic alcohol use, as our data suggest victimization experiences may have previously been underestimated within this population (Fedina et al., 2018; Mellins et al., 2017) already at increased risk of incurring alcohol-related harm.
 
@@ -222,23 +221,32 @@ Relative contributions:
 -   Exploring 'the story' of inequality: Scientific investigations into the antecedents, experience, and reduction of group-based inequality -- Demis Glasford, PhD
 -   Inequalities in Young Adult Criminal Justice Contacts: Patterns and Collateral Consequences for Parents and Siblings -- Courtney Boen, PhD, MPH
 
-**Led**
-
-Described in the Teaching and Mentorship sections below.
-
 ## Clinical Experiences
 
 ### Theoretical Orientation Statement
 
-My theoretical orientation is rooted in the cognitive-behavioral tradition. Third-wave principles guide my approach to case conceptualization and intervention, which strives to be holistic in nature by considering the context of an individual's experience. The central concepts, process-based focus, and philosophical assumptions of the third wave ground my practice in science while enabling integration and flexibility.
+My theoretical orientation is rooted in the cognitive-behavioral tradition. Third-wave principles guide my approach to case conceptualization and intervention, which strives to be holistic in nature by considering the context of an individual's experience. The cognitive-behavioral foundation, core concepts, and process-based focus of the third wave grounds my practice in science while enabling integration and flexibility.
 
-Third-wave methods highlight the role of mindfulness, acceptance, emotions, values, and meta‐cognition. Each of these constructs has an extensive knowledge base that connects their role in wellbeing and treatment to empirically supported mechanisms of change. In my practice, I prioritize pathways to change over strict adherence to disorder-specific protocols because I have seen this approach benefit my patients.
+Classic cognitive behavioral therapy (CBT) focuses on patterns of problematic thinking and their impact on mood and behavior. I use CBT and interventions derived from this tradition in my practice, such as CBT-E for eating disorders and cognitive processing therapy for PTSD. In the provision of CBT, I help my patients examine the content of automatic thoughts and their perceptions of what prompted these thoughts to facilitate a more balanced perspective. Third-wave principles influence my CBT service provision in that I still attend to the content of thoughts but shift more focus to their function and how my patients relate to them. Both approaches are valuable and research identifying moderators of treatment response can help to inform decisions about when to use which method and with whom.
 
-Specifically, I use a bottom-up approach to conceptualization that considers a patient\'s symptoms in the context of their goals, history, culture, strengths, and the domains they identify as most critically impacted. Doing so prevents me from using their symptoms to make a diagnosis and then building a conceptualization and treatment plan around that disorder, a flawed strategy given the high rate of comorbidity among diagnostic categories originally theorized to have distinct etiologies. In contrast, my conceptualization illuminates transdiagnostic processes of change consistent with a patient\'s presentation and the dimensional nature of psychopathology. Centering core processes means conceptualizations and treatment plans can be more readily tailored to a patient\'s needs as they evolve throughout therapy.
+Third-wave methods highlight the role of mindfulness, acceptance, emotions, values, and meta‐cognition. Each of these constructs has an extensive knowledge base that connects their role in treatment to evidence-based mechanisms of change. I am partial to third-wave therapies including acceptance and commitment therapy (ACT) and dialectical behavior therapy (DBT) because of their focus on these pathways to change and utility in guiding case conceptualization. Specifically, I use a bottom-up approach to conceptualization that considers a patient\'s symptoms in the context of their goals, history, culture, relationships, and strengths, as well as the domains they identify as most critically impacted. Doing so prevents me from using their symptoms to make a premature diagnosis and then subconsciously building a conceptualization and treatment plan around that disorder. This is a strategy I aim to avoid given the high rate of comorbidity among diagnostic categories originally theorized to have distinct etiologies, and because fixating on so-called disorders means narrowly focusing on deficiencies and dysfunction rather than health and wellness.
 
-However, flexibility does not mean I readily abandon evidence-based protocols whenever a patient wants to switch gears...
+In contrast, my holistic approach to conceptualization allows me to identify transdiagnostic processes of change consistent with a patient\'s presentation, motivation for therapy, and the dimensional nature of psychopathology. Centering core processes also means conceptualizations and treatment plans can be more adeptly tailored as my understanding of a patient grows and their needs evolve throughout therapy. However, flexibility does not mean I readily abandon evidence-based protocols whenever a patient wants to switch gears. I strive to balance flexibility and fidelity in my practice, integrating complementary approaches to leverage the strength of compatible strategies. I find this most useful when adaptations increase cultural sensitivity or serve to benefit the working alliance in a meaningful way.
 
 ### Clinical Training Record
+
+```{r,echo=FALSE}
+#| label: tbl-all
+#| tbl-cap: "Overall Hours"
+
+# create data frame
+all_summ <- data.frame(
+  Summary = c("Intervention", "Assessment", "Total Direct", "Supervision"),
+  Hours = c("328.75", "93.50", "422.25", "244.75"))
+# format table
+kable(all_summ, booktabs = TRUE, align = 'lr', col.names = c("Summary", "Hours")) %>%
+  kable_styling(full_width = FALSE)
+```
 
 #### Practicum Experiences
 
@@ -282,11 +290,13 @@ Through practicum training in the PRTC, I have provided individual therapy, cond
 # create data frame
 prtc_summ <- data.frame(
   Summary = c("Intervention", "Assessment", "Total Direct", "Supervision"),
-  Hours = c("173.75", "63.50", "237.25", "151.50"))
+  Hours = c("173.75", "68.50", "242.25", "157.50"))
 # format table
-kable(uhs_summ, booktabs = TRUE, align = 'lr', col.names = c("Summary", "Hours")) %>%
+kable(prtc_summ, booktabs = TRUE, align = 'lr', col.names = c("Summary", "Hours")) %>%
   kable_styling(full_width = FALSE)
 ```
+
+A time2track summary of patient demographics and hours can be accessed [here](https://github.com/sbward23/sbw_portfolio/blob/main/materials/Combined%20Summary%20_%20Time2Track.pdf).
 
 #### Integrative Assessment Reports
 
@@ -308,13 +318,13 @@ De-identified, integrated assessment reports are linked below.
 
 Systemic issues that threaten diversity, equity, and inclusion are inextricably linked to the roles I inhabit as a feminist research scientist and aspiring clinical psychologist.
 
-I study sexual violence, the burden of which is inequitably distributed. Racialized and other minoritized groups are disproportionately impacted by sexual violence and the risk of victimization is compounded among those with multiple marginalized identities. I promote equity through sexual violence research by investigating the nature of these disparities and facilitating efforts to eliminate them. Producing rigorous, high-quality science in this area of study requires cultural humility, awareness of subjectivity, and recognition of racist, patriarchal power structures, because the assertion that complex psychosocial experiences can be understood through objective scientific approaches ignores history and context, perpetuating inequity.
+I study sexual violence, the burden of which is inequitably distributed. Racialized and other minoritized groups are disproportionately impacted by sexual violence and the risk of victimization is compounded among those with multiple marginalized identities. I promote equity through sexual violence research by investigating the nature of these disparities and facilitating efforts to eliminate them. Rigorous science in this area of study requires a deliberate awareness of implicit biases and racist, patriarchal power structures, which shape the processes through which both disparities and scientific knowledge are produced.
 
-To this end, I subscribe to the contemporary constructivist philosophy of science and use theory aligned with its core assumptions to guide my research. For example, a constructionist framework contradicts the positivist notion of a mind-independent, absolute truth, instead positing that reality is malleable and "constructed" through social processes (DeLamater & Hyde, 1998). This framework assumes social problems are actively made, not simply revealed, a core tenet of feminist science and the scholarly literature on societal norms that perpetuate sexual and gender-based violence.
+The assumption that humans can be wholly objective ignores history and context, so promoting equity through research means challenging the assertion that a universal truth underlying complex psychosocial experience can be unearthed through objective scientific means (Rodriguez-Seijas et al., 2023). To this end, I subscribe to the contemporary constructivist philosophy of science and use theory aligned with its core assumptions to guide my research. For example, a constructionist framework contradicts the positivist notion of a mind-independent, absolute truth, instead positing that reality is malleable and "constructed" through social processes (DeLamater & Hyde, 1998). This framework assumes social problems are actively made, not simply revealed, a core tenet of feminist science and the scholarly literature on societal norms that perpetuate sexual and gender-based violence.
 
-Social problems are actively made in society at large but also within our communities and institutions. Promoting diversity, equity, and inclusion therefore requires turning inward to examine the principles and practices used in the conduct of our research. There are current practices in psychological science that exclude scholars from marginalized backgrounds, which perpetuates white supremacy (Buchanan et al., 2021). I use open science practices that facilitate sharing and reuse of research assets to help mitigate inequalities disadvantaging under-resourced scholars via increased accessibility. The open science movement explicitly features collaborative, prosocial ideals known to engage members of under-represented groups and cultivate a more inclusive culture (Murphy et al., 2020). These ideals reflect my values and align with my long-term goal of working as part of a cooperative research team.
+Social problems are actively made in society at large but also within our communities and institutions. Promoting diversity, equity, and inclusion therefore requires turning inward to examine the principles and practices used in the conduct of our research. There are current practices in psychological science that exclude scholars from marginalized backgrounds, which perpetuates white supremacy (Buchanan et al., 2021). I use open science practices that facilitate sharing and reuse of research assets to help mitigate inequalities disadvantaging under-resourced scholars via increased accessibility. The open science movement explicitly features collaborative, prosocial ideals known to engage members of under-represented groups and cultivate a more diverse culture (Murphy et al., 2020). These ideals reflect my values and align with my goal of working as part of a cooperative, justice-oriented research team.
 
-...In diagnosing and treating an especially complex case of PTSD, I have also grown my cultural awareness, competency, and humility. My work with this particular patient has been highly impactful, reinforcing my desire to provide mental health services to women and veterans holding several intersecting identities that shape how they experience psychopathology. I am eager to diversify my caseload in a more heterogeneous population and would welcome the chance to assess and treat housing-insecure and justice-impacted individuals as well as patients with multiple comorbid conditions.
+Finally, it is paramount that I consider how systemic oppression and prejudice give rise to inequitable mental health outcomes. I have been fortunate to receive specialized training to enhance my cultural competence and have learned about how oppressive forces can impact mental health directly from those affected. My work with patients whose backgrounds differ from my own has also highlighted the value of diverse perspectives and many ways in which culture and spirituality can promote human flourishing. It is a blessing to connect with people from varied communities and I appreciate the responsibility that comes with being trusted by someone who society has forced to remain guarded.
 
 ### DEI Training Record
 
@@ -347,9 +357,9 @@ In my role as a mentor, I introduced Rachna to the sexual violence literature pe
 
 One of my primary goals was to equip Rachna with practical skills in data analysis and management. I facilitated her learning of analytic strategies using R and RStudio, which are critical tools in psychological research. This training not only enhanced her technical skills but also her confidence in handling complex datasets.
 
-Additionally, I supported Rachna in her professional development by helping her prepare for presentations. She successfully presented her project at the 2021 PREP Symposium and the International Society for Traumatic Stress Studies (ISTSS) conference, opportunities that allowed her to engage with the broader scientific community and gain valuable feedback on her work.
+Additionally, I supported Rachna in her professional development by helping her prepare for presentations. She successfully presented her project at the 2021 PREP Symposium and the International Society for Traumatic Stress Studies (ISTSS) conference, opportunities that allowed her to engage with the broader scientific community and gain valuable feedback.
 
-This mentorship experience was deeply enriching, as it allowed me to contribute to the growth of an aspiring clinical scientist from an under-represented background in academic psychology. After the PREP program, Rachna graduated early from the University of Michigan and then worked for Dr. Nicole Weiss, an Associate Professor and Clinical Psychologust at the University of Rhode Island, whose research program focuses on the co-occurrence of PTSD and substance use disorders.
+This mentorship experience was deeply enriching, as it allowed me to contribute to the growth of an aspiring clinical scientist from an under-represented background in academic psychology. After the PREP program, Rachna graduated early from the University of Michigan and then worked for Dr. Nicole Weiss, an Associate Professor and Clinical Psychologist at the University of Rhode Island, whose research program focuses on the co-occurrence of PTSD and substance use disorders.
 
 ## Teaching and Mentorship
 
@@ -359,9 +369,7 @@ Starting in the Spring semester of 2022, I served as Dr. Janet Hyde's Head Teach
 
 During the Fall semester of 2022, I was a Teaching Assistant for the Introductory Psychology course (PSYC 202), taught by Dr. Rebecca Addington. This large, 400-student lecture course required meticulous organization and pedagogical skills; I was responsible for grading approximately 400 short essay assignments each week. Additionally, I managed logistical aspects of the course such as scheduling, proctoring, and hand-scoring makeup exams. I also supported students through tutoring during office hours, by appointment, and via email, ensuring their academic and personal support.
 
-In January, 2024, I delivered a Guest Lecture at the School of Pharmacy for Karen Kopacek, MS, RPh. The lecture focused on emotional stress and compassion fatigue and was psychoeducational in nature, as I integrated practical skills such as mindfulness, distress tolerance, and emotion regulation to support future healthcare professionals.
-
-These experiences have shaped my teaching philosophy and approach, reinforcing my commitment to fostering an interactive and supportive educational environment.
+In January, 2024, I delivered a Guest Lecture at the School of Pharmacy for Karen Kopacek, MS, RPh. The lecture focused on emotional stress and compassion fatigue and was psychoeducational in nature, as I integrated practical skills such as mindfulness, distress tolerance, and emotion regulation to support future healthcare professionals. These experiences have collectively shaped my teaching philosophy and approach, reinforcing my commitment to fostering an interactive and supportive educational environment.
 
 ### TA Evaluations
 
@@ -379,12 +387,8 @@ These experiences have shaped my teaching philosophy and approach, reinforcing m
 
 ### Mentorship Experiences
 
-Since August 2020, I have been actively involved in mentorship in the Preventing Interpersonal Violence & Overcoming Trauma (PIVOT) Lab at UW-Madison. Under the direction of my advisor, Dr. Kate. Walsh, our lab's mission is to address critical issues related to sexual violence and trauma through rigorous research and scholarly engagement.
-
-I have provided mentorship to a diverse group of lab members, ranging from undergraduates to post-baccalaureate and master's level research assistants. My contributions have focused on enhancing their research competencies, including data management and cleaning using RStudio.
+Since August 2020, I have been actively involved in mentorship in our Preventing Interpersonal Violence & Overcoming Trauma (PIVOT) Lab. I have provided mentorship to a diverse group of lab members, ranging from undergraduates to post-baccalaureate and master's-level research assistants.
 
 Additionally, I have led workshops aimed at enhancing research proficiency, covering topics such as effective literature search strategies and the use of Zotero for organizing and citing scholarly articles. These workshops are designed to enhance lab members' practical, hands-on experience and are tailored to meet the evolving needs of our research program.
 
-A significant part of my mentorship experience has also been devoted to guiding our lab members through the graduate application process. I provide tailored support to help each individual identify and apply to graduate programs and paid training opportunities that match their career aspirations in research and clinical practice. This guidance is customized to reflect the unique goals and backgrounds of each mentee, ensuring that they receive the most relevant and impactful advice.
-
-Through these activities, the PIVOT Lab advances research and promotes professional development among emerging scholars in psychology and related fields.
+A significant portion of my mentorship experience has also been devoted to guiding our lab members through the graduate application process. I provide individualized support to help each person identify and apply to graduate programs and paid training opportunities that match their career aspirations in research and clinical practice. This guidance is customized to reflect the unique goals and backgrounds of each mentee, ensuring that they receive the most relevant and impactful advice.
