@@ -300,17 +300,7 @@ A time2track summary of patient demographics and hours can be accessed [here](ht
 
 #### Integrative Assessment Reports
 
-De-identified, integrated assessment reports are linked below.
-
-1\. [17M](https://github.com/sbward23/sbw_portfolio/blob/main/materials/de-identified%20reports/17M_ASPD.pdf) - diagnostic and personality assessment to evaluate for suspected ASPD.
-
-2\. [29M](https://github.com/sbward23/sbw_portfolio/blob/main/materials/de-identified%20reports/29M_ADHD.pdf) - neuropsychological assessment for ADHD in an adult with high intelligence.
-
-3\. [39M](https://github.com/sbward23/sbw_portfolio/blob/main/materials/de-identified%20reports/39M_PDD.pdf) - diagnostic and personality assessment for an adult with life-long depression.
-
-4\. [18F](https://github.com/sbward23/sbw_portfolio/blob/main/documents/de-identified%20reports/de-identified_18F_BN.docx) - therapy intake and assessment to confirm diagnosis of bulimia nervosa.
-
-5\. 22F - Integrated report on cPTSD case cross-listed under DEI, please see below.
+Five de-identified, integrated assessment reports are accessible in Box.
 
 ## Diversity, Equity, and Inclusion
 
@@ -330,7 +320,7 @@ Finally, it is paramount that I consider how systemic oppression and prejudice g
 
 #### Case Conceptualization
 
-The integrated intake assessment report, including case conceptualization and treatment plan, for a patient with intersecting marginalized identities is accessible [here](https://github.com/sbward23/sbw_portfolio/blob/main/documents/de-identified%20reports/de-identified_22F_cPTSD.docx).
+An integrative assessment report, including case conceptualization and treatment plan, for a patient with intersecting marginalized identities is accessible in Box.
 
 #### DEI - Workshops, Seminars, and Lectures
 
