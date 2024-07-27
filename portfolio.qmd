@@ -82,7 +82,7 @@ Qualitative data from our #MeToo study also identified sexual victimization hist
 
 My future research will progress the science in two important ways. Traditional quantitative approaches can miss the detailed insights needed to contextualize study findings while behavioral measures of substance use and consent often rely on retrospective self-reports. To gain a more holistic perspective of the proximal and temporal associations between sexual behavior and substance use, I will analyze qualitative and longitudinal quantitative data in my dissertation. Specifically, I will use qualitative methods to explore how young adults navigate intoxicated sexual experiences and determine for themselves whether these experiences are consensual. My lab and I also collected daily diary data from college students to investigate how substance use and subjective intoxication influence sexual risk and consent dynamics at the event level. Experience sampling methods are acceptable to people who use substances (Wyant, Moshontz, Ward, Fronk, & Curtin, 2023), and surveying students 'in the wild' can address methodological hurdles by enabling us to probe event-level associations. Collecting rich qualitative data and dynamic daily reports will strengthen my examination of intoxicated, consent-related behaviors by facilitating a more nuanced analysis of variability within and between events.
 
-Ultimately, I aspire to leverage the strengths of multimodal ambulatory assessment and mixed methodologies to better account for the real-world complexities underlying substance-involved sexual experiences. I intend to advance understandings of the precursors and contextual factors that contribute to these incidents on college campuses and then expand the scope of my work to include members of the armed forces and individuals impacted by the criminal legal system. My goal is to inform, develop, and deliver risk-reduction and health promotion interventions aimed at preventing sexual violence and fostering healthy, consensual sexual behaviors resistant to the harmful effects of alcohol use.
+Ultimately, I aspire to leverage the strengths of multimodal ambulatory assessment and mixed methodologies to better account for the real-world complexities underlying substance-involved sexual experiences. I intend to advance understandings of the precursors and contextual factors that contribute to these incidents on college campuses and then expand the scope of my work to include members of the armed forces and individuals impacted by the criminal legal system. My goal is to inform, develop, and deliver risk-reduction and health promotion interventions aimed at preventing sexual violence and fostering healthy, consensual sexual behaviors resistant to the harmful effects of alcohol.
 
 ### Research Products
 
@@ -139,14 +139,14 @@ Relative contributions:
 
 1.  Wyant, K., Moshontz, H., **Ward, S.B.**, Fronk, G., Curtin, J. J. (2023). Acceptability of Personal Sensing Among People With Alcohol Use Disorder: Observational Study. *JMIR Mhealth Uhealth*, 11(e41833), <https://doi.org/10.2196/41833>.
 
+Full-text PDF available [here](https://github.com/sbward23/sbw_portfolio/blob/main/materials/My%20Papers/Wyant...%20Ward%2C%20et%20al.%2C%202023.pdf).
+
 Relative contributions:
 
 -   Conceptualization - 10%
 -   Design - 10%
 -   Analysis - NA
 -   Writing - 10%
-
-Full-text PDF available [here](https://github.com/sbward23/sbw_portfolio/blob/main/materials/My%20Papers/Wyant...%20Ward%2C%20et%20al.%2C%202023.pdf).
 
 #### Post-bacc Publications
 
@@ -318,7 +318,7 @@ A time2track summary of patient demographics and hours can be accessed [here](ht
 
 #### Integrative Assessment Reports
 
-Five de-identified, integrated assessment reports are accessible in Box.
+Four de-identified, integrated assessment reports are accessible [here](https://uwmadison.box.com/s/5ci8egz4y4fa08dcc3uma7jok0zgexuc) in Box.
 
 ## Diversity, Equity, and Inclusion
 
@@ -338,7 +338,7 @@ Finally, it is paramount that I consider how systemic oppression and prejudice g
 
 #### Case Conceptualization
 
-An integrative assessment report, including case conceptualization and treatment plan, for a patient intersecting marginalized identities is accessible in Box.
+An integrative assessment report, including conceptualization and treatment plan, for a patient with intersecting marginalized identities is accessible [here](https://uwmadison.box.com/s/6a6il6xf6w08ctazcacpjh5wwocszyhc) in Box.
 
 #### DEI - Workshops, Seminars, and Lectures
 
@@ -401,7 +401,7 @@ In January, 2024, I delivered a Guest Lecture at the School of Pharmacy for Kare
 
 ### Mentorship Experiences
 
-Since August 2020, I have been actively involved in mentorship in our Preventing Interpersonal Violence & Overcoming Trauma (PIVOT) Lab. I have provided mentorship to a diverse group of lab members, ranging from undergraduates to post-baccalaureate and master's-level research assistants.
+Since August 2020, I have been actively involved in mentorship in our Preventing Interpersonal Violence & Overcoming Trauma (PIVOT) Lab. I have provided mentorship to a diverse group of lab members, ranging from undergraduates to post-baccalaureate and master's-level research assistants. In this role, I have mentored four undergraduate-led conference poster presentations.
 
 Additionally, I have led workshops aimed at enhancing research proficiency, covering topics such as effective literature search strategies and the use of Zotero for organizing and citing scholarly articles. These workshops are designed to enhance lab members' practical, hands-on experience and are tailored to meet the evolving needs of our research program.
 
