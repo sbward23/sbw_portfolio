@@ -1,6 +1,6 @@
 ---
 title: Clinical Portfolio
-date: 2024-07-30
+date: 2024-07-26
 author:
   - name: Stephanie B. Ward, M.S.
     affiliation: University of Wisconsin-Madison
@@ -10,6 +10,8 @@ format:
     toc-depth: 4
     code-fold: true
     code-summary: "Hide Code"
+    execute:
+      echo: false
 editor:
   chunk-output-type: inline
 ---
@@ -86,8 +88,9 @@ Ultimately, I aspire to leverage the strengths of multimodal ambulatory assessme
 
 #### Submitted Version of the FYP
 
-1.  **Ward, S. B.**, Hassanpour, P., Walsh, K. (2023). Process-based consent among college men: The interactive influence of hostility toward women, perceived peer norms, and alcohol-involved sexual consent attitudes. *Under Review, the submitted manuscript is available in pdf format [at this link](https://github.com/sbward23/sbw_portfolio/blob/main/materials/My%20Papers/Ward%20et%20al.%2C%20submission%20-%20sex%20roles.pdf).*
-    -   Registration DOI (anonymized view-only link for masked peer review): <https://osf.io/zxrjp/?view_only=89295c61cb5f415c9f9526df9352d517>
+1.  **Ward, S. B.**, Hassanpour, P., Walsh, K. (2023). Process-based consent among college men: The interactive influence of hostility toward women, perceived peer norms, and alcohol-involved sexual consent attitudes. *Under Review.*
+
+Full-text PDF available [here](https://github.com/sbward23/sbw_portfolio/blob/main/materials/My%20Papers/Ward%20et%20al.%2C%20submission%20-%20sex%20roles.pdf).
 
 **Abstract**
 
@@ -104,6 +107,8 @@ Relative contributions:
 
 1.  **Ward, S. B.**, Nardella, S., Hamilton, K. W., Walsh, K. (2024). "I Didn't Realize How Common It Was:" A Mixed-Methods Study Examining Changes in Perceptions of Sexual Assault, Sex and Consent, and Sexual Behavior as a Function of the #MeToo Movement. *The Journal of Sex Research*, 1--15. <https://doi.org/10.1080/00224499.2024.2352555>
 
+Full-text PDF available [here](https://github.com/sbward23/sbw_portfolio/blob/main/materials/My%20Papers/Ward%20et%20al.%2C%202024%20-%20metoo.pdf).
+
 **Abstract**
 
 This mixed-methods study examined awareness and perceived legitimacy of the #MeToo movement and how #MeToo changed perceptions of sexual assault and consent, as well as sexual interactions, in the United States. Adults residing in the U.S. were recruited through CloudResearch to complete an online survey in 2021. Quantitative data from 680 participants (*M* age = 45.8, 60% women, 77.4% White) indicated moderate awareness and perceived legitimacy of the #MeToo movement; Black, LGBQ+, and more politically liberal respondents had greater #MeToo awareness while younger, more liberal respondents, and those with greater rejection of rape myths rated #MeToo more legitimate. Among 354 participants (*M* age = 45.0, 65.3% women, 76.4% White) who answered at least one open-ended question with regard to changes resulting from the #MeToo movement, thematic analysis revealed nine primary themes: (1) Describing change; (2) Change in understanding; (3) More cautious; (4) Wrong or requires reporting/punishment; (5) Gendered social norms; (6) Easier to talk about; (7) #MeToo rhetoric; (8) Consequences for survivors, and (9) Empowerment. Several sub-themes were identified among the primary themes and implications for sexual assault prevention and response were discussed. The study findings are contextualized by social constructionism, with a particular focus on gender-based power dynamics, contributing to a growing literature documenting the cultural impact of the #MeToo movement.
@@ -116,6 +121,8 @@ Relative contributions:
 -   Writing - 50%
 
 2.  Walsh, K., Lowe, S. R., & **Ward, S.** (2024). Sexual Victimization, Emotion Dysregulation, and Sexual Consent Feelings and Communication During a Recent Sexual Encounter. *The Journal of Sex Research*, 1--9. <https://doi.org/10.1080/00224499.2024.2368044>
+
+Full-text PDF available [here](https://github.com/sbward23/sbw_portfolio/blob/main/materials/My%20Papers/Walsh...%20Ward%2C%20et%20al.%2C%202024.pdf).
 
 **Abstract**
 
@@ -139,57 +146,66 @@ Relative contributions:
 -   Analysis - NA
 -   Writing - 10%
 
+Full-text PDF available [here](https://github.com/sbward23/sbw_portfolio/blob/main/materials/My%20Papers/Wyant...%20Ward%2C%20et%20al.%2C%202023.pdf).
+
 #### Post-bacc Publications
 
-1.  **Ward, S. B.**, Boger, M., Fleishman, A., Shenkel, J., Calvo, A., Pomahac, B., Zwolak, R., Krishnan, N., Richman, K., Rodrigue, J.R. (2020). Attitudes toward organ, tissue and vascularized composite allograft (VCA) donation and transplantation: A survey of United States military veterans. Transplantation. <https://doi.org/10.1097/tp.0000000000003376>
+1.  **Ward, S. B.**, Boger, M., Fleishman, A., Shenkel, J., Calvo, A., Pomahac, B., Zwolak, R., Krishnan, N., Richman, K., Rodrigue, J.R. (2020). Attitudes toward organ, tissue and vascularized composite allograft (VCA) donation and transplantation: A survey of United States military veterans. Transplantation. Full-text [PDF](https://github.com/sbward23/sbw_portfolio/blob/main/materials/My%20Papers/Ward%20et%20al.%2C%202020.pdf). <https://doi.org/10.1097/tp.0000000000003376>
 
-2.  Robinson, K. A., Carroll, M., **Ward, S. B.**, Osman, S., Chhabra, K. R., Arinze, N., Amedi, A., Kaafarani, H., Smink, D., Kent, T., Musa M. Aner, Brat, G. (2020). Implementing and evaluating a multihospital standardized opioid curriculum for surgical providers. Journal of Surgical Education, 77(3), 621--626. <https://doi.org/10.1016/j.jsurg.2019.12.012>
+2.  Robinson, K. A., Carroll, M., **Ward, S. B.**, Osman, S., Chhabra, K. R., Arinze, N., Amedi, A., Kaafarani, H., Smink, D., Kent, T., Musa M. Aner, Brat, G. (2020). Implementing and evaluating a multihospital standardized opioid curriculum for surgical providers. Journal of Surgical Education, 77(3), 621--626. Full-text [PDF](https://github.com/sbward23/sbw_portfolio/blob/main/materials/My%20Papers/Robinson...%20Ward%20et%20al.%2C%202019.pdf). <https://doi.org/10.1016/j.jsurg.2019.12.012>
 
 #### Capstone Presentation
 
-*Sexual Violence in University Students: A Multi-Level Approach to Understanding the Perpetration of Sexual Aggression*
+***Sexual Violence in University Students: A Multi-Level Approach to Understanding the Perpetration of Sexual Aggression***
 
 -   Date presented: April 26, 2024
 -   PDF of slide deck can be accessed [here](https://github.com/sbward23/sbw_portfolio/blob/main/materials/capstone.pdf).
 
 #### Lunch and Learn Presentation
 
-*Process-Based Consent Among College Men: The Interactive Influence of Hostility Toward Women, Perceived Peer Norms, and Alcohol-involved Sexual Consent Attitudes*
+***Process-Based Consent Among College Men: The Interactive Influence of Hostility Toward Women, Perceived Peer Norms, and Alcohol-involved Sexual Consent Attitudes***
 
 -   Date Presented: February 20, 2023
+
+Sexual consent has been defined as an individual's voluntary, sober, and conscious willingness to engage in sexual activity (Willis et al., 2021). Process-based consent (PBC) builds on this definition to encourage ongoing and collaborative communication throughout sexual encounters. A potential threat to engaging in PBC is alcohol-involved sexual activity, which is highly prevalent among college students (Herbenick et al., 2010). Alcohol-related impairment can diminish an individual's ability to consent, yet perceptions of consent for alcohol-involved sexual activity vary amongst college students (Hills et al., 2021). Additional barriers to PBC may stem from hostile masculine norms (e.g., acceptance of violence toward women), as researchers have found that men who endorse these norms also report more negative attitudes toward consent (Hermann et al., 2018). The current study sought to examine the interactive effects of positive attitudes toward alcohol-involved sex (AIS) and hostility toward women (HTW) at the individual- and peer-level (i.e., perceptions of peers' HTW) on college men's endorsement of PBC. Quantitative analyses were conducted using self-report survey data from undergraduate men (N = 463) at a heavy-drinking public university in the midwestern United States. After controlling for the effects of heavy episodic drinking and relationship status, a series of linear regressions revealed a significant, negative association between positive attitudes toward AIS and PBC (β = -0.56, F(1, 459) = 191.75, p \< .001), which was negatively moderated by HTW (β = -0.19, F(1, 457) = 12.29, p \< .001) and perceptions of peers' HTW (β = -0.18, F(1, 457) = 18.50, p \< .001). Results imply that positive attitudes toward AIS are not conducive to PBC. Approval of AIS may represent a salient threat to PBC among college men who hold hostile attitudes toward women and/or among those who believe their peers hold hostile attitudes toward women. The authors conclude by discussing the implications of these findings and their relevance to campus sexual health initiatives.
 
 #### Posters
 
 *\*\*Mentored presentation by an undergraduate mentee.*
 
-1.  **\*\*Does Anxiety Moderate the Effect of Peer Drinking Norms on Past-Month Alcohol-Induced Blackouts? An Observational Study Among College Students.** April 17, 2024.
+1.  **\*\*Does Anxiety Moderate the Effect of Peer Drinking Norms on Past-Month Alcohol-Induced Blackouts? An Observational Study Among College Students.** Date presented: April 17, 2024.
 
     Social anxiety and drinking for social reasons have been positively associated with alcohol consumption among college students.^1-2^ Prior work also suggests that emotion dysregulation, peer norms, and drinking for anxiety-coping can lead to alcohol-related problems.^3^  Still, it remains unclear how these factors relate to alcohol-induced blackouts (AIBs). Given the high comorbidity of social and generalized anxiety, the current study extends previous research by investigating whether generalized anxiety moderates the association between peer drinking norms and AIBs. We hypothesized that generalized anxiety symptoms and peer drinking norms would interact such that students with more anxiety would be more susceptible to higher peer drinking norms, resulting in more frequent past-month AIBs. We further hypothesized that the interaction between generalized anxiety and peer drinking norms would explain unique variance in AIBs when controlling for emotion dysregulation and other alcohol-related problems. Overdispersed data prompted two quasi-Poisson regressions. Contrary to Hypothesis 1, the results of our first model indicated that the interaction between generalized anxiety and peer drinking norms was significant but negative (β = -0.006, SE = 0.003, z = -2.207, p = .027), which suggests higher peer drinking norms increased blackout frequency and that this effect was less pronounced in students with greater anxiety. In line with our second hypothesis, the interaction remained significant after adjusting for covariates (β = -0.031, SE = 0.012,  z = -2.628, p = .009), which further suggests generalized anxiety symptoms buffer the influence of peer drinking norms on AIBs. Implications for intervention and future research are discussed.
 
-2.  **\*\*Associations Between Lifetime Sexual Violence and Engaging in Choking During Sex: Findings from an Undergraduate Sample.** November 15, 2023.
+2.  **\*\*Associations Between Lifetime Sexual Violence and Engaging in Choking During Sex: Findings from an Undergraduate Sample.** \
+    Date presented: November 15, 2023.
 
     Background: Sexual choking is a behavior that some engage in to heighten sexual pleasure, replicate gendered sex scripts, and explore kinky behaviors (Herbenick, 2020; Tarr, 2016). However, choking can lead to unintended and dangerous consequences because applying external pressure on the neck can restrict airflow and cause brain anoxia (Sauvageau & Boghossian, 2010; Hou et al., 2023). Women are more likely to be choked than men and men are more likely to choke a partner compared to women (Bridges et al., 2016; Wright et al., 2015). Lesbian, gay, and bisexual students are more likely to engage in choking compared to straight students (Herbenick et al., 2021). Although likelihood of engaging in BDSM is not associated with experiencing sexual trauma (Ten Brink, 2021), engaging in kink play or rough sex may be empowering for survivors of sexual trauma (Cascalheira, 2021). However, to our knowledge, associations between sexual violence and sexual choking (not in the context of a violent encounter) have yet to be explored. Methods: The current study seeks to understand the relationship between sexual violence and choking during sex. College students (N = 228; 56.1% female; 69.7% white; 86.4% heterosexual; mean age = 18.6) completed an online survey about sexual behavior including questions about the frequency of engaging in choking, the degree to which they enjoyed it, and how often they engaged in choking despite not enjoying it. Results: Findings indicated that 56.6% had participated in choking at least once, 31% had engaged in choking more than 1x/month, and 16% indicated that they engaged in choking despite not enjoying it. Consistent with prior work, women were more likely to report choking compared to men, Χ2 = 6.23, p = .01, but contrary to expectations, no differences were observed for sexual orientation, Χ2 = 1.12, p = .29. 44.7% of the sample reported lifetime sexual violence. After controlling for gender, sexual orientation, and age of first consensual sexual encounter, participants who reported sexual victimization during their lifetime had increased odds of reporting engagement in choking (OR: 1.962, 95% CI: 1.139-3.378) and choking despite not enjoying it (OR: 5.501, 95% CI: 1.994-15.178). Conclusion: Future qualitative research could explore the ways in which individuals who engage in choking conceptualize their own sexual agency and desires along with their willingness and ability to communicate consent to engage in choking during sex.
 
 3.  **\*\*Manner of Drinking as a Mediator of Emotional Impulsivity and Alcohol-Related Problems.**\
-    April 19, 2023.
+    Date presented: April 19, 2023.
 
 4.  **Alcohol-Induced Blackouts and Nonconsensual Sexual Experiences Among Undergraduate Men.** November 18, 2022.
 
     College students who have previously engaged in sexually coercive behavior tend to have significantly higher sex-related alcohol expectancies, while victims of unwanted sexual contact often report higher alcohol consumption, use fewer protective strategies, and experience more negative consequences due to their alcohol use (Palmer et al., 2010). One such consequence is experiencing more alcohol-induced blackouts (AIBs), or periods of memory loss for all or part of a drinking episode, and these periods of memory loss have been associated with a wide range of negative outcomes including sexual assault (SA) (Haas et al., 2016; Voloshyna et al., 2018). Individuals who have experienced SA victimization may use increasing amounts of alcohol to self-medicate assault-related distress (Stappenbeck et al., 2022) and those with a history of SA perpetration may more frequently drink to the point of blacking out as a tactic to avoid culpability in the pursuit of an intoxicated sexual partner (Ven & Beck, 2009) yet findings on what could be reciprocal associations between SA and AIBs have been mixed (Jaffe et al., 2022). Most of these associations have been observed among college women despite college men being more likely to report intentions to blackout (Wombacher et al., 2019), which is understandable considering the higher risk for SA victimization among women. However, given that men who have experienced or perpetrated  (Neal & Fromme, 2007) sexual violence often report heavy alcohol use, research examining whether victimization or perpetration histories are associated with AIBs among college men is needed. The current study characterized the prevalence and sociodemographic correlates of past-month AIBs among undergraduate men and examined whether nonconsensual sexual experiences since age 14 were significant predictors of AIBs within this population. Among 473 undergraduate men (40% fraternity members; mean age = 19.3; 37% students of color) who completed an online survey assessing alcohol use and sexual history, 61.73% reported experiencing an AIB within the past month. Past-month AIB severity was positively associated with fraternity membership (*β* = 0.67, F(1,471) = 41.21, *p* \< .001)  and white racial identity (*β* = -0.24, F(1,471) = 4.66, *p* = .03). More than one-third of the sample reported at least one nonconsensual sexual experience since age 14 (39.74% SA victimization, 8.48% perpetration) and a series of quasi-Poisson regressions revealed that both SA victimization (*β* = 0.44, F(1,461) =17.31, *p* \< .001) and perpetration (*β* = 0.40, F(1,470) = 6.04, *p* = .01) were significant predictors of past-month AIB severity. Alcohol and sex education programs are often conducted separately, and these data suggest it may be important to consider their reciprocal associations. Campus health centers might consider screening for SA victimization among college men with problematic alcohol use, as our data suggest victimization experiences may have previously been underestimated within this population (Fedina et al., 2018; Mellins et al., 2017) already at increased risk of incurring alcohol-related harm.
 
-5.  **Sexual Consent Among College Men: The Moderating Effects of Alcohol-Involved Sex and Hostility Toward Women.** November 5, 2022.\
+5.  **Sexual Consent Among College Men: The Moderating Effects of Alcohol-Involved Sex and Hostility Toward Women.** \
+    Date presented: November 5, 2022.\
     \
     Sexual consent has been defined as an individual's voluntary, sober, and conscious willingness to engage in sexual activity (Willis et al., 2021). Process-based consent (PBC) builds on this definition to encourage ongoing and collaborative communication throughout sexual encounters. A potential threat to engaging in PBC is alcohol-involved sexual activity, which is highly prevalent among college students (Herbenick et al., 2010). Alcohol-related impairment can diminish an individual's ability to consent, yet perceptions of consent for alcohol-involved sexual activity vary amongst college students (Hills et al., 2021). Additional barriers to PBC may stem from hostile masculine norms (e.g., acceptance of violence toward women), as researchers have found that men who endorse these norms also report more negative attitudes toward consent (Hermann et al., 2018). The current study sought to examine the interactive effects of positive attitudes toward alcohol-involved sex (AIS) and hostility toward women (HTW) at the individual- and peer-level (i.e., perceptions of peers' HTW) on college men's endorsement of PBC. Quantitative analyses were conducted using self-report survey data from undergraduate men (N = 463) at a heavy-drinking public university in the midwestern United States. After controlling for the effects of heavy episodic drinking and relationship status, a series of linear regressions revealed a significant, negative association between positive attitudes toward AIS and PBC (β = -0.56, F(1, 459) = 191.75, p \< .001), which was negatively moderated by HTW (β = -0.19, F(1, 457) = 12.29, p \< .001) and perceptions of peers' HTW (β = -0.18, F(1, 457) = 18.50, p \< .001). Results imply that positive attitudes toward AIS are not conducive to PBC. Approval of AIS may represent a salient threat to PBC among college men who hold hostile attitudes toward women and/or among those who believe their peers hold hostile attitudes toward women. The authors conclude by discussing the implications of these findings and their relevance to campus sexual health initiatives.
 
-6.  **Associations between Sexual Assault History and Sexual Consent Feelings and Behaviors among College Students: A Path Model Involving Alcohol Use Prior to Sex & Emotion Dysregulation.** November 18, 2021.
+6.  **Associations between Sexual Assault History and Sexual Consent Feelings and Behaviors among College Students: A Path Model Involving Alcohol Use Prior to Sex & Emotion Dysregulation.** \
+    Date presented: November 18, 2021.
 
     Sexual assault is a significant problem among college students with approximately one in four college women reporting some form of unwanted sexual contact. Although sexual assault and substance use have been linked with emotion dysregulation and sexual risk taking, no studies of which we are aware have examined associations between sexual assault, substance use, emotion dysregulation and sexual consent feelings and behaviors. The current study examined associations between sexual assault history, substance use prior to sex, emotion dysregulation, and sexual consent feelings (i.e., willingness) and behaviors (i.e., consent communication) during a recent sexual encounter. Among 610 college students (72% female; mean age = 21.3; 44% underrepresented racial/ethnic groups) who completed an online survey, approximately 31% reported unwanted sexual contact since age 14 (15.7% men, 35.3% women), and 13.9% (15.9% men, 13.4% women) reported substance use prior to their most recent sexual encounter. The best fitting path model (*χ2* (*df* = 3) = 5.25, *p* = .15, *CFI* = .98, *RMSEA* = .03, *SRMR* = .02) revealed that a history of sexual assault was significantly positively associated with overall emotion dysregulation, which in turn was positively associated with substance use prior to sex but negatively associated with internal willingness during their most recent sexual encounter. Higher levels of willingness, in turn, were positively associated with the use of more external consent communication behaviors. Findings suggest that consent education programs for college students may need to consider the role of sexual assault victimization history and emotion dysregulation in addition to alcohol as factors that impact willingness to engage in sexual activity and downstream communication about consent.
 
-7.  **\*\*Sexual Assault Resistance Strategies, Blame, and Mental Health Outcomes.** November 4, 2021.
+7.  **\*\*Sexual Assault Resistance Strategies, Blame, and Mental Health Outcomes.** \
+    Date presented: November 4, 2021.
 
     Sexual assault has been associated with posttraumatic stress disorder (PTSD) and depression. The resistance strategies a survivor employs (forceful, non-forceful, or passive) and the blame one attributes (towards self or rapist) for an assault may affect these outcomes. To our knowledge, these factors have not been analyzed together. We hypothesized that greater use of passive resistance strategies and higher levels of self-blame would be positively associated with PTSD and depressive symptoms. We used online survey data from 62 male and female university students who reported an unwanted sexual experience. As predicted, bivariate correlations showed that greater use of passive resistance strategies was positively correlated with PTSD (*r*=.51, *p*\>.001) and depression (*r*=.27, *p*\>.05) symptoms, and higher levels of self-blame (*r*=.25, *p*\>.05). Higher levels of self-blame were also positively associated with PTSD (*r*=.40, *p*\>.01) and depression (*r*=.31, *p*\>.05) symptoms. The finding that passive resistance strategies were associated with negative mental health outcomes may reflect internalization of rape myths, whereby survivors who do not actively fight back or clearly say no consider themselves responsible for their assaults. Findings also may inform treatment of patients with sexual victimization histories by targeting the role of self-blame in the onset of PTSD and depression.
 
-8.  **Sexual Assault Victimization and Perpetration among those Involved in Greek Life and Varsity Athletics: A Large National Study.** November 19, 2020.
+8.  **Sexual Assault Victimization and Perpetration among those Involved in Greek Life and Varsity Athletics: A Large National Study.** \
+    Date presented: November 19, 2020.
 
     Studies on whether college students involved in fraternities, sororities, and campus athletics are at increased risk for sexual assault victimization and perpetration have yielded mixed findings, and many existing studies are dated and focus on samples at single universities. Past research has found that fraternity and sorority members consume more alcohol than nonmembers and suggest this as a potential factor contributing to higher rates of sexual assault among Greek members (Franklin, 2016; Murnen & Kohlman, 2007). Fraternity and sorority members are also more likely to report using drinking protective behavioral strategies (PBS), a trend mirrored by varsity athletes (citation?). PBS have been suggested as a potential preventive method of reducing sexual assault risk (Neilson et al., 2018). The current study seeks to examine these patterns using a large national sample drawn across multiple campuses between 2011-2013. Participants were 88,975 students (M age = 22.3, SD = 6.2; 72.7% White; 65.2% female, 32.5% male, 0.3% transgender) from 62 different campuses. Students received a survey broadly about college student health. Approximately 11% (12.1% women, 10.6% men) of participants reported involvement in a fraternity or sorority and 8.0% (7.5% women, 9.2% men) reported involvement in varsity athletics in the previous 12 months. Chi-square analyses run separately by gender revealed that female, male, and transgender students involved in Greek life were significantly more likely than students who were not to report unwanted sexual touching (ps \<.001), attempted sexual penetration (ps \<.01), and completed penetration (ps \<.05). Similar patterns emerged for female, male, and transgender students involved in varsity athletics. Among students who reported any drinking, students of all genders involved in Greek life and athletics were more likely to report that someone had sex with them without their consent while they were drinking (ps \<.01), and male and transgender students involved in Greek life (ps \<.001) and varsity athletics (ps \<.05) were more likely to report that they had sex with someone without their consent while drinking. Notably, protective behavioral strategies do not seem to serve as a protective factor for sexual assault among these populations. Findings have important implications for collegiate athletics as well as Greek organizations, suggesting the alcohol education programs in use with these students across campuses need to incorporate curriculum addressing issues around consent. Further, there is a heightened need for evidence-based sexual violence prevention programming for sorority women, fraternity men, and varsity athletes that covers substance-facilitated sexual assault.
 
@@ -229,9 +245,9 @@ My theoretical orientation is rooted in the cognitive-behavioral tradition. Thir
 
 Classic cognitive behavioral therapy (CBT) focuses on patterns of problematic thinking and their impact on mood and behavior. I use CBT and interventions derived from this tradition in my practice, such as CBT-E for eating disorders and cognitive processing therapy for PTSD. In the provision of CBT, I help my patients examine the content of automatic thoughts and their perceptions of what prompted these thoughts to facilitate a more balanced perspective. Third-wave principles influence my CBT service provision in that I still attend to the content of thoughts but shift more focus to their function and how my patients relate to them. Both approaches are valuable and research identifying moderators of treatment response can help to inform decisions about when to use which method and with whom.
 
-Third-wave methods highlight the role of mindfulness, acceptance, emotions, values, and meta‐cognition. Each of these constructs has an extensive knowledge base that connects their role in treatment to evidence-based mechanisms of change. I am partial to third-wave therapies including acceptance and commitment therapy (ACT) and dialectical behavior therapy (DBT) because of their focus on these pathways to change and utility in guiding case conceptualization. Specifically, I use a bottom-up approach to conceptualization that considers a patient\'s symptoms in the context of their goals, history, culture, relationships, and strengths, as well as the domains they identify as most critically impacted. Doing so prevents me from using their symptoms to make a premature diagnosis and then subconsciously building a conceptualization and treatment plan around that disorder. This is a strategy I aim to avoid given the high rate of comorbidity among diagnostic categories originally theorized to have distinct etiologies, and because fixating on so-called disorders means narrowly focusing on deficiencies and dysfunction rather than health and wellness.
+Third-wave methods highlight the role of mindfulness, acceptance, emotions, values, and meta‐cognition. Each of these constructs has an extensive knowledge base that connects their role in treatment to evidence-based mechanisms of change. I am partial to third-wave therapies including acceptance and commitment therapy (ACT) and dialectical behavior therapy (DBT) because of their focus on these pathways to change and utility in guiding case conceptualization. Specifically, I use a bottom-up approach to conceptualization that considers a patient's symptoms in the context of their goals, history, culture, relationships, and strengths, as well as the domains they identify as most critically impacted. Doing so prevents me from using their symptoms to make a premature diagnosis and then subconsciously building a conceptualization and treatment plan around that disorder. This is a strategy I aim to avoid given the high rate of comorbidity among diagnostic categories originally theorized to have distinct etiologies, and because fixating on so-called disorders means narrowly focusing on deficiencies and dysfunction rather than health and wellness.
 
-In contrast, my holistic approach to conceptualization allows me to identify transdiagnostic processes of change consistent with a patient\'s presentation, motivation for therapy, and the dimensional nature of psychopathology. Centering core processes also means conceptualizations and treatment plans can be more adeptly tailored as my understanding of a patient grows and their needs evolve throughout therapy. However, flexibility does not mean I readily abandon evidence-based protocols whenever a patient wants to switch gears. I strive to balance flexibility and fidelity in my practice, integrating complementary approaches to leverage the strength of compatible strategies. I find this most useful when adaptations increase cultural sensitivity or serve to benefit the working alliance in a meaningful way.
+In contrast, my holistic approach to conceptualization allows me to identify transdiagnostic processes of change consistent with a patient's presentation, motivation for therapy, and the dimensional nature of psychopathology. Centering core processes also means conceptualizations and treatment plans can be more adeptly tailored as my understanding of a patient grows and their needs evolve throughout therapy. However, flexibility does not mean I readily abandon evidence-based protocols whenever a patient wants to switch gears. I strive to balance flexibility and fidelity in my practice, integrating complementary approaches to leverage the strength of compatible strategies. I find this most useful when adaptations increase cultural sensitivity or serve to benefit the working alliance in a meaningful way.
 
 ### Clinical Training Record
 
@@ -281,7 +297,7 @@ kable(uhs_summ, booktabs = TRUE, align = 'lr', col.names = c("Summary", "Hours")
 
 September 1, 2020 - Present
 
-Through practicum training in the PRTC, I have provided individual therapy, conducted diagnostic and neuropsychological assessment batteries, and screened previously incarcerated individuals for psychosis, suicidality, and PTSD. In Fall of 2023, I acquired deeper theoretical knowledge and new clinical skills in the assessment and treatment of PTSD and trauma-related conditions. Elements of this internal practicum required mastering the Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) and delivering closely supervised Cognitive Processing Therapy, which advanced my understanding of traumatic stress and the myriad ways its effects can manifest.
+Through practicum training in the PRTC, I have provided individual therapy, conducted diagnostic and neuropsychological assessment batteries, and screened previously incarcerated individuals for psychosis, suicidality, and PTSD. In Fall of 2023, I acquired deeper theoretical knowledge and new clinical skills in the assessment and treatment of PTSD and trauma-related conditions. Elements of this internal practicum required mastering the Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) and delivering closely supervised Cognitive Processing Therapy.
 
 ```{r,echo=FALSE}
 #| label: tbl-prtc
@@ -320,11 +336,16 @@ Finally, it is paramount that I consider how systemic oppression and prejudice g
 
 #### Case Conceptualization
 
-An integrative assessment report, including case conceptualization and treatment plan, for a patient with intersecting marginalized identities is accessible in Box.
+An integrative assessment report, including case conceptualization and treatment plan, for a patient intersecting marginalized identities is accessible in Box.
 
 #### DEI - Workshops, Seminars, and Lectures
 
-**Research**
+**Clinical Service Provision**
+
+-   International Student-Clients: Clinical Considerations -- Wei-Chiao Hsu 徐薇喬, PhD, LPC
+-   Recognizing and Addressing Bicultural Identity Conflict -- Geetanjali Deole, MS, LPC
+
+**Research, cross-listed**
 
 -   Breaking the Bias Habit -- William T.L. Cox, PhD
 -   Promoting Safe and Inclusive Research Environments -- Leann DaWalt, PhD
@@ -334,18 +355,19 @@ An integrative assessment report, including case conceptualization and treatment
 -   Exploring 'the story' of inequality: Scientific investigations into the antecedents, experience, and reduction of group-based inequality -- Demis Glasford, PhD
 -   Inequalities in Young Adult Criminal Justice Contacts: Patterns and Collateral Consequences for Parents and Siblings -- Courtney Boen, PhD, MPH
 
-**Clinical Service Provision**
+#### DEI - Service
 
--   International Student-Clients: Clinical Considerations -- Wei-Chiao Hsu 徐薇喬, PhD, LPC
--   Recognizing and Addressing Bicultural Identity Conflict -- Geetanjali Deole, MS, LPC
+-   **Committee for Accommodations:** Collaborates with departmental faculty and graduate-student peers on initiatives designed to increase the accessibility of disability accommodations among psychology students and facilitate management of accommodations requests among instructors and teaching assistants
 
-#### DEI - Mentorship
+-   **Diversity, Equity, and Inclusion (DEI) Panel:** Served on the DEI panel at Recruitment Weekend
 
-During the summer of 2021, I had the opportunity to mentor a promising undergraduate student, Rachna Iyer, through the Psychology Research Experience Program (PREP) at UW-Madison. This program, supported by the National Science Foundation, focuses on providing students from underrepresented backgrounds with intensive research experiences in psychology and neuroscience.
+#### Psychology Research Experience Program (PREP) Mentor
+
+During the summer of 2021, I had the opportunity to mentor a promising undergraduate student, Rachna Iyer, through the PREP program at UW-Madison. This program, supported by the National Science Foundation, focuses on providing students from underrepresented backgrounds with intensive research experiences in psychology and neuroscience.
 
 In my role as a mentor, I introduced Rachna to the sexual violence literature pertaining to posttraumatic stress, providing her with a foundational understanding necessary for conducting meaningful research in her area of interest. Over the course of the program, I guided her through the entire scientific process---from the initial stages of identifying a research question to the final stages of writing up the results.
 
-One of my primary goals was to equip Rachna with practical skills in data analysis and management. I facilitated her learning of analytic strategies using R and RStudio, which are critical tools in psychological research. This training not only enhanced her technical skills but also her confidence in handling complex datasets.
+One of my primary goals was to equip Rachna with practical skills in data analysis and management. I facilitated her learning of analytic strategies using R and RStudio. This training not only enhanced her technical skills but also her confidence in handling complex datasets.
 
 Additionally, I supported Rachna in her professional development by helping her prepare for presentations. She successfully presented her project at the 2021 PREP Symposium and the International Society for Traumatic Stress Studies (ISTSS) conference, opportunities that allowed her to engage with the broader scientific community and gain valuable feedback.
 
